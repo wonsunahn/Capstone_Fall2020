@@ -5,77 +5,92 @@ permalink: /project_assignments/
 
 # Project Assignments
 
-## NetApp - Develop a kernel extension for an Open Source File System
-* Dongbang Liu (dol24)
-* Samuel Skupien (sss78)
+### NetApp - Develop a kernel extension for an Open Source File System
+
+* fjr7
+* sma105
 
 
-### NetApp - Develop an Extendable REST API server and Composite UI Based on Microservices
-* Matthew Klaczak (mck70)
-* Nicholas Zelazny (naz30)
-* Wenqian Zhao (wez77)
-* Jingyi Lu (jil222)
+### NetApp - Extending a Microservice Architecture and Developing a Test Framework
 
+* nrh20
+* jis81
+* bjk71
 
-### Augmented Reality in Clinical Training
-* Brendan Campbell (brc107)
-* Tanner Stauffer (tas202)
+### Behaivior - Develop a Mobile Application to Help Support People in Recovery from Opioid Addiction
+* nmw46
+* aco21
 
+### Occam: Smarter Search in Workflow Creation
+* stm107
+* gwp12
+* jme80
 
 ### Improving Energy Efficiency via Heterogeneous-aware Scheduling
-* Eric Nguyen (ern17)
-* Connor Schwartz (ces133)
+* jsc64
+* tbc18
+
+### A website for handing-in programming assignments
+* jjp107
+* cpk22
+* kac311
+
+### Duty-Cycle For Saving Battery In Navigation
+* ewt5
+* njl26
+* jmb416
+
+### Managing user impatience on Android smartphones
+* kcs66
+* nid45
+
+### Web-based Interactive Degree Pathways
+* edp34
+* gip20
+* jmc282
+* sps53
 
 
-### Mobile application for medication adherence
-* Erin Herlihy (emh129)
-* David Stropkey (dms129)
-* Nicholas West (njw26)
-* Ian Patterson (irp10)
+### Privatizers for the Internet of Things - measuring the impact of privatizer functions on image detection models
+* khm18
+* abt31
+
+### Studying the impact of using privatizers across different image-based detection tasks
+* faw21
+* jps132
+
+### Create a Voting System for SCI
+* yuh75
+* lrs68
+* caj63
 
 
-### Dynamic performance scaling for heterogeneous processors
-* Erik Brindock (esb43)
-* Michael Hanks (mjh176)
+### A web interface to enable the visualization of fMRI data
+* dmt61
+* mav122
+* jaw280
+* vis59
 
 
-### CS Course Grading App
-* Adam Ibrahim (adi11)
-* Ian Manners (imm17)
+### Remote veterinary care app
+* joe30
+* jek150
+* pep24
 
 
-### A match-making website for capstones
-* Matthew Stropkey (mas682)
-* Jonathan Zhang (jcz18)
+### O’Donnell lab – Machine learning to map cellular localizations
+
+* mua31
+* sah129
+
+### Machine learning of electronic health records data
+* yul138
+* ema66
+* yus71
 
 
-### Data Mining for Helping Students in Scheduling
-* Matthew Thomas (mtd38)
-* Ruth Dereje (rud6)
-* Alexander Kim (adk67)
-
-
-### Smartphone Gps Duty-Cycle For Saving Battery In Navigation
-* Matthew Borbonus (mjb288)
-* Stephen Marhefka (sjm161)
-
-
-### Context-Aware Path Recommendation
-* Evan Kiebler (evk15)
-* Charles McEllhenney (ecm53)
-
-
-### Pitt Green Suite
-* Cecilia Chi (cec89)
-* Jessamyn Malia (jrm253)
-
-
-### Automated data extraction from mammalian cells
-* Arie Dash (apd29)
-* Sean Nastase (smn48)
-
-
-### Acoustic Monitoring of Frog Populations
-* Luisa Cusick (luc32)
-* Aaron Hoke (ach73)
-* Talia Piretra (tap96)
+### Ectotherm ER: Biological Sciences Outreach module website development
+* kja34
+* acd60
+* nas221
+* kel117

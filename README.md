@@ -1,2 +1,2 @@
-# Capstone_Fall2019
-CS / Bioinformatics Capstone Fall 2019 w/ Luis Oliveira and Wonsun Ahn
+# Capstone_Spring2020
+CS / Bioinformatics Capstone Spring 2020 w/ Luis Oliveira and Wonsun Ahn

@@ -4,147 +4,92 @@ title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
 
-Note: There will be a maximum of NINE internship/research presentations per class. Internship presentations should be five minutes long sharp.  I will cut you off at exactly five minutes.  Don't forget to send me your slides by the previous day midnight.
+Due to COVID-19 all presentations will be given over Microsoft Teams going forward.
+
+
+A short tutorial on how to join a presentation:  
+[https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4](https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4)
+
+A short tutorial on how to share your slides when giving your presentation:  
+[https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7](https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)
+
+Don't forget to send me your slides by the previous day midnight.
 
 The presentations will be given in the order they are listed on the particular date.
 
-## 6 SEP - LECTURE: PRESENTATION AND FEEDBACK
+## WEEK 1 (10 JAN)
 
-[Please review the slides]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and also [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.
+* Introduction on syllabus and course requirements
 
-## 13 SEP - INTERNSHIP PRESENTATIONS
+## WEEK 2 (17 JAN)
 
-Sriram Iyer  
-Mark Babatunde  
-Xinke Chen  
-Kevin Wang  
-Andrew Morgan  
-Tom DiCarlo  
-Jack Anderson  
-Nicole Dash  
-Mike Neumann  
+* [Lecture on giving a good presentation]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 
-## 20 SEP - INTERNSHIP PRESENTATIONS
+## WEEK 3 (24 JAN)
+  
+* Kevin Kusi
+* Mathew Varughese
 
-Richard Xu  
-Jarod Latta  
-John Ference  
-Chip Beck  
-David Gorny  
-Dan Cohen  
-Dorian Vesely  
-Linda Zeng  
-Lifan Long  
+## WEEK 4 (31 JAN)
 
-## 27 SEP - INTERNSHIP PRESENTATIONS
+* Yichen Li
+* Anna Smith
 
-Ryan Apsche  
-Cody Grkman  
-Etienne Ayoub  
-Emily Higgs  
-Milo Davis  
-Edward Cox  
-Andrea Michael  
-Elijah Kajinic  
+## WEEK 5 (7 FEB)
 
-## 4 OCT - INTERNSHIP PRESENTATIONS
+* Leah Mooney
+* Alan Shen
 
-Surbhi Patel  
-Jared Frank  
-Owen Schaefer  
-Austin Ricke  
-Carly Hoffman  
-Samuel Flynn  
-Inna Reznitchenko  
-Casper Cheng  
-Jacob Hauser  
+## WEEK 6 (14 FEB)
 
-## 11 OCT - INTERNSHIP PRESENTATIONS
+* Beck Fuga
+* Erin O'Rourke
 
-Sarah Rosenblatt  
-Emily Hua  
-Zachary Whitney  
-Peter O'Hara  
-Marcus Beacon  
-Darpun Kohli  
-Andrew Stimmell  
-Kenan Rustamov  
+## WEEK 7 (21 FEB)
 
-## 18 OCT - INTERNSHIP PRESENTATIONS
+* Shayon Sinha
+* Mitch Kelly
 
-Ali Zaman  
-Mark Filus  
-Brandon Backa  
-Sundar Sampath  
-Brandon Bisceglia  
-Varun Zaver  
-Dilan Ozkaynak  
-Odiche Obiakarije  
-Frank Pasqualini  
+## WEEK 8 (28 FEB)
 
-## 25 OCT - INTERNSHIP PRESENTATIONS
+* Wesley Michalski
+* Joshua Spisak
 
-Benjamin Graybill  
-Daniel Mailloux  
-Steven Montalbano  
-Wenyu Li  
-Jon Rutkauskas  
-Michael Hermenault  
-Matthew Tutsock  
-Justin Kramer  
+## WEEK 9 (6 MAR)
 
-## 1 NOV - INTERNSHIP PRESENTATIONS
+* Nikhilesh Singh
+* Jonathan Zdobinski
 
-Di Wu  
-Simran Gidwani  
-Lillian Turner  
-Aliyah Flores  
-Connor Berry  
-Alicia St. Hilaire  
-Jiawei Zhuang  
-David Ankin  
-Xingjian Diao  
+## WEEK 10 (13 MAR)
 
-## 8 NOV - INTERNSHIP PRESENTATIONS
+* Spring Recess (NO CLASS)
 
-Zachary Smith  
-Mirabel Reid  
-Jacob Gilbert  
-Colin Spratt  
-Justin Deible  
-Caitlin Schmuck  
-Chloe Ciora  
-Nicolas Leo  
-Brad Smith  
+## WEEK 11 (20 MAR)
 
-## 15 NOV - INTERNSHIP PRESENTATIONS
+* NO PRESENTATIONS
 
-Austin Murtha  
-Erik Roeckel  
-Corey Catalogna  
-Connor Finucane  
-Connor Tshudy  
-Anastasia Sosnovskikh  
-Yue Hao  
+## WEEK 12 (27 MAR)
 
-## 22 NOV - INTERNSHIP PRESENTATIONS
+* Riley Bean (12:00 - 12:25)  
+* Tianyi Li (12:25 - 12:50)
+* Benjamin Nathanson (1:00 - 1:25)
+* James Pickering (1:25 - 1:50)
 
-Brandon He  
-Teague Cole   
-Shaoming Zheng  
-ZhouXin Tian  
-Darius Ramavarapu  
-Fatema Quaid  
-Ben Elkins  
+## WEEK 13 (3 APR)
 
-## 29 NOV - THANKSGIVING
+* Praneeth Sangani
+* Yuxin Zhang
 
-## 6 DEC - RESEARCH PRESENTATIONS
+## WEEK 14 (10 APR)
 
-Chenrui Liu  
-Boby,Michael J  
-Defrank,Ethan L  
-Gu,Tianrun  
-Munirji,Alan Elias  
-Nixon,Brian Tyrrell  
-Yan,Tiruo  
+* Sonia Cromp
+* Tula Sah
+
+## WEEK 15 (17 APR)
+
+* Qi Xue
+* Nolan Weinlader
+
+## WEEK 16 (24 APR)
+
+* Finals week (NO CLASS)

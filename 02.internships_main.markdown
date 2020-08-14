@@ -6,36 +6,49 @@ permalink: /CS1900_1950/
 
 ## Your responsibilities
 
-You have three responsibilities this term:
+You have five responsibilities this term:
 
-1. Give a 5 minute presentation on the work that you did during your internship or directed research.  Because you have limited time, you will probably need no more than 5 slides.  See below Presentation organization.
+1. Give a 15 minute presentation on your work with 5 minutes q&a.  See [Presentation organization](#presentation-organization).
 
-2. Write a final paper.  See below Final paper organization.
+2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
-3. Fill in an anonymous peer review form for 5 presentations assigned to you.  See below Peer review organization.
+3. Submit peer reviews for 5 presentations assigned to you.  See [Peer review organization](#peer-review-organization).
 
-4. CS 1950 students will send weekly reports to me and their respective advisors by email.
+4. Attend classes regularly.  See [Attendance](#attendance).
 
-5. Attend the class regularly.
+5. CS 1950 students: send weekly reports to me and advisors by email.
 
 ## Presentation organization
 
-1. The doodle poll is over.  The finalized schedule is [at this page]({{site.baseurl}}/internship_presentation_schedule).
-2. Please review [the lecture on presentations]({{site.baseurl}}/lectures/Capstone_Lecture4_Presentations.pdf) and [these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
-3. Presenters must submit their presentation slides to courseweb the day before, by Thursday midnight.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.  Please note that the classroom A/V system only allows HDMI connections.
-
-## Peer review organization
-
-Fill in an anonymous peer review form for 5 presentations assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt) on this website.  The form should be submitted to courseweb by Saturday midnight the day after the presentation with the file name PresenterName_ReviewerID.txt.  You can view the presentation slides on TopHat while writing the review.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
-
-The median score from the peer review forms will be used as a data point to grade the presentations.
-
-[Here is the PDF]({{site.baseurl}}/internships/capstone_assignments_public.pdf) for the peer review assignments.
-
-You should have gotten your respective reviewer IDs by individual email.
+1. Doodle poll is now over.  Refer to the [Final Schedule]({{site.baseurl}}/internship_presentation_schedule).
+2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
+3. Presenters must submit their presentation slides to courseweb the day before, by **Thursday midnight**.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
 
 ## Final paper organization
 
-Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (6 DECEMBER).  For details, see [Final Paper]({{site.baseurl}}/final_paper) on this website.  The paper should be submitted to courseweb by midnight of 6 DECEMBER.  PDF format is preferred.
+Write a 8 - 12 page paper on your internship experience.  For details, see the [Final Paper Instructions]({{site.baseurl}}/final_paper).  PDF format is preferred.  The paper should be submitted to courseweb by midnight of **17 APRIL**.  Please consider submitting the paper earlier to get feedback.
 
-[Please read these slides]({{site.baseurl}}/lectures/Capstone_Lecture5_Supplemental.pdf) before writing the report.  Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
+Most of the things I said about presentations is also relevant to the report, and also there is an example outline of the report on the final slide.  Feel free to use your own organization if you'd like but it should contain all the major components.
+
+## Peer review organization
+
+Fill in an anonymous peer review form for 5 presenters assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The form should be submitted to courseweb by **Sunday midnight** the day after the presentation with the file name PresenterName_ReviewerID.txt.  The presentation slides will be made available on TopHat immediately at the end of class.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+
+On the form is a reviewer ID.  You should have gotten your individual reviewer IDs by email.  Check the [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf) for the 5 presenters assigned to each reviewer ID.
+
+On the form is also an Overall Score.  The median of the 5 peer review Overall Scores will be recorded in the Presentation Score of the presenter on courseweb on the week following the presentation (at least by Wednesday).  Note that the median score and peer reviews *will not impact on the presenter's grade*.  You can give honest feedback and scores without feeling guilty about lowering your friend's grade.  The instructor will make the final determination on the quality of the presentation.
+
+Also, on the Feedback to Learner for the Presentation Score will be a Google Drive link to a folder that contains all the peer reviews + instructor's review (file name: "instructor_review").  If the instructor determines that the presentation had a serious problem, the Feedback to Learner will explicitly say so and the presenter will get an email asking him/her to give a second private presentation to the instructor.
+
+## Attendance
+
+Just like any class, you are expected to attend regularly.  Please notify me at least **2 days beforehand** if you have a valid excuse for missing a class.  Otherwise, if you miss class due to an emergency (medical or family), please send me documentation of the event.  If you have **more than 3 unexcused absences, you will fail the class**.
+
+## Class Resources
+
+* [Final Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Week 2 Lecture on Presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
+* [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf)
+* [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
+* [Peer Review Tips]({{site.baseurl}}/review_tips)
+* [Final Paper Instructions]({{site.baseurl}}/final_paper)
