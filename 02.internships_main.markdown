@@ -31,21 +31,21 @@ You have five responsibilities this term:
    that your classmates will answer.  Choose between a multiple choice question
 or a fill-in-the-blank question.
 
-  [Multiple choice example]
+   [Multiple choice example]
   
-  Q: Which color is not represented in the RGB color model?
-  a) Red
-  b) Green
-  c) Blue
-  d) Beige
+   Q: Which color is not represented in the RGB color model?
+   a) Red
+   b) Green
+   c) Blue
+   d) Beige
 
-  A: d) Beige
+   A: d) Beige
 
-  [Fill-in-the-blank example]
+   [Fill-in-the-blank example]
 
-  Q: An additive color model that adds together the colors of red, green, and blue to create a color is called the ______ color model.
+   Q: An additive color model that adds together the colors of red, green, and blue to create a color is called the ______ color model.
 
-  A: RGB
+   A: RGB
 
 ## Final paper organization
 
