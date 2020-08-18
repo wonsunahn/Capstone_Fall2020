@@ -9,7 +9,7 @@ permalink: /CS1900_1950/
 You have five responsibilities this term:
 
 1. Give a 10 minute presentation on your work with 2 minutes q&a.  See [Presentation organization](#presentation-organization).
-  * Also come up with a question your classmates should be able to answer after listening to your presentation.
+   * Also come up with a question your classmates should be able to answer after listening to your presentation.
 
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
@@ -20,8 +20,8 @@ You have five responsibilities this term:
 ## Presentation organization
 
 1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is 8/28 (Friday).
-  * [Doodle poll for Wonsun's class]
-  * [Doodle poll for Luis' class]
+   * [Doodle poll for Wonsun's class]
+   * [Doodle poll for Luis' class]
 
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
 
@@ -33,11 +33,11 @@ or a fill-in-the-blank question.
 
    [Multiple choice example]
   
-   Q: Which color is not represented in the RGB color model?
-   a) Red
-   b) Green
-   c) Blue
-   d) Beige
+   Q: Which color is not represented in the RGB color model?  
+   a) Red  
+   b) Green  
+   c) Blue  
+   d) Beige  
 
    A: d) Beige
 
