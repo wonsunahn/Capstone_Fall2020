@@ -4,7 +4,7 @@ title: CS 1900/1950 Presentation Schedule
 permalink: /internship_presentation_schedule
 ---
 
-Due to COVID-19 all presentations will be given over Microsoft Teams going forward.
+Due to COVID-19 all presentations will be given over Zoom.
 
 
 A short tutorial on how to join a presentation:  
@@ -13,83 +13,62 @@ A short tutorial on how to join a presentation:
 A short tutorial on how to share your slides when giving your presentation:  
 [https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7](https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)
 
-Don't forget to send me your slides by the previous day midnight.
+Don't forget to send your instructor your slides by the previous day midnight.
 
 The presentations will be given in the order they are listed on the particular date.
 
-## WEEK 1 (10 JAN)
+## WEEK 1 (Week of 17 AUG)
 
 * Introduction on syllabus and course requirements
-
-## WEEK 2 (17 JAN)
+  
+## WEEK 2 (Week of 24 AUG)
 
 * [Lecture on giving a good presentation]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 
-## WEEK 3 (24 JAN)
+## WEEK 3 (Week of 31 AUG)
   
-* Kevin Kusi
-* Mathew Varughese
+* Student presentations
 
-## WEEK 4 (31 JAN)
+## WEEK 4 (Week of 7 SEP)
 
-* Yichen Li
-* Anna Smith
+* Student presentations
 
-## WEEK 5 (7 FEB)
+## WEEK 5 (Week of 14 SEP)
 
-* Leah Mooney
-* Alan Shen
+* Student presentations
 
-## WEEK 6 (14 FEB)
+## WEEK 6 (Week of 21 SEP)
 
-* Beck Fuga
-* Erin O'Rourke
+* Student presentations
 
-## WEEK 7 (21 FEB)
+## WEEK 7 (Week of 28 SEP)
 
-* Shayon Sinha
-* Mitch Kelly
+* Student presentations
 
-## WEEK 8 (28 FEB)
+## WEEK 8 (Week of 5 OCT)
 
-* Wesley Michalski
-* Joshua Spisak
+* Student presentations
 
-## WEEK 9 (6 MAR)
+## WEEK 9 (Week of 12 OCT)
 
-* Nikhilesh Singh
-* Jonathan Zdobinski
+* Student presentations
 
-## WEEK 10 (13 MAR)
+## WEEK 10 (Week of 19 OCT)
 
-* Spring Recess (NO CLASS)
+* Student presentations
 
-## WEEK 11 (20 MAR)
+## WEEK 11 (Week of 26 OCT)
 
-* NO PRESENTATIONS
+* Student presentations
 
-## WEEK 12 (27 MAR)
+## WEEK 12 (Week of 2 NOV)
 
-* Riley Bean (12:00 - 12:25)  
-* Tianyi Li (12:25 - 12:50)
-* Benjamin Nathanson (1:00 - 1:25)
-* James Pickering (1:25 - 1:50)
+* Student presentations
 
-## WEEK 13 (3 APR)
+## WEEK 13 (Week of 9 NOV)
 
-* Praneeth Sangani
-* Yuxin Zhang
+* Student presentations
 
-## WEEK 14 (10 APR)
+## WEEK 14 (Week of 16 NOV)
 
-* Sonia Cromp
-* Tula Sah
-
-## WEEK 15 (17 APR)
-
-* Qi Xue
-* Nolan Weinlader
-
-## WEEK 16 (24 APR)
-
-* Finals week (NO CLASS)
+* Student presentations

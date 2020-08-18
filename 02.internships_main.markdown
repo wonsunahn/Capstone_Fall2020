@@ -8,21 +8,44 @@ permalink: /CS1900_1950/
 
 You have five responsibilities this term:
 
-1. Give a 15 minute presentation on your work with 5 minutes q&a.  See [Presentation organization](#presentation-organization).
+1. Give a 10 minute presentation on your work with 2 minutes q&a.  See [Presentation organization](#presentation-organization).
+  * Also come up with a question your classmates should be able to answer after listening to your presentation.
 
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
-3. Submit peer reviews for 5 presentations assigned to you.  See [Peer review organization](#peer-review-organization).
+3. Answer the presentation question and fill out peer reviews for each presentation (other than your own) on TopHat.  See [Peer review organization](#peer-review-organization)
 
-4. Attend classes regularly.  See [Attendance](#attendance).
-
-5. CS 1950 students: send weekly reports to me and advisors by email.
+4. CS 1950 students: send weekly reports to your instructor and advisor by email.
 
 ## Presentation organization
 
-1. Doodle poll is now over.  Refer to the [Final Schedule]({{site.baseurl}}/internship_presentation_schedule).
-2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  You might also want to look at [the Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The review form will remind you of what you are being assessed on.
-3. Presenters must submit their presentation slides to courseweb the day before, by **Thursday midnight**.  The plan is to have your slide files ready on the in-class computer so that we can transition faster between presentations.  The preferred format is PDF or Powerpoint.  If you plan to use other presentation software, you are responsible for bringing your laptop and any adapters to connect to the classroom A/V system.
+1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is 8/28 (Friday).
+  * [Doodle poll for Wonsun's class]
+  * [Doodle poll for Luis' class]
+
+2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
+
+3. Presenters must submit their presentation slides to courseweb the day before, by **Thursday midnight**.  The slides will be uploaded to TopHat so that they can be reviewed by your classmates.  The preferred format is PDF or Powerpoint.  
+
+4. Presenters must also submit a presentation question by Thursday midnight
+   that your classmates will answer.  Choose between a multiple choice question
+or a fill-in-the-blank question.
+
+  [Multiple choice example]
+  
+  Q: Which color is not represented in the RGB color model?
+  a) Red
+  b) Green
+  c) Blue
+  d) Beige
+
+  A: d) Beige
+
+  [Fill-in-the-blank example]
+
+  Q: An additive color model that adds together the colors of red, green, and blue to create a color is called the ______ color model.
+
+  A: RGB
 
 ## Final paper organization
 
