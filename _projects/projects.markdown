@@ -149,6 +149,7 @@ The Game Dynamic is expected to go like this: User should be asked to sort objec
 
 Below are just a few examples of possible scenarios that can be presented.
 Scenario Examples
+
 |Item|End-of-Life|
 |-|-|
 |Container strawberries come in from the store| Trash
