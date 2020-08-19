@@ -20,8 +20,8 @@ You have five responsibilities this term:
 ## Presentation organization
 
 1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is **8/28 (Friday)**.  If you do not submit the poll, an arbitrary date will be chosen for you.
-   * [Doodle poll for Wonsun Ahn's class (CS 1900-1010 or CS 1950=1010)]
-   * [Doodle poll for Luis Oliveira' class (CS 1900-1060 or CS 1950=1060)]
+   * [Doodle poll for Wonsun Ahn's class (CS 1900-1010 or CS 1950-1010)]
+   * [Doodle poll for Luis Oliveira' class (CS 1900-1060 or CS 1950-1060)]
 
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
 
