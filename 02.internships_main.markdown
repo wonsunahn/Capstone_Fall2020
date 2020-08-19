@@ -25,11 +25,17 @@ You have five responsibilities this term:
 
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
 
-3. Presenters must submit their presentation slides to courseweb the day before, by **Thursday midnight**.  The slides will be uploaded to TopHat so that they can be reviewed by your classmates.  The preferred format is PDF or Powerpoint.  
+3. Presenters must submit their presentation slides to the "Presentation
+   Slides" assignment on Canvas the day before, by **Thursday midnight**.  The
+slides will be uploaded to TopHat so that they can be reviewed by your
+classmates.  The preferred format is PDF or Powerpoint.  
 
-4. Presenters must also submit a presentation question by Thursday midnight
-   that your classmates will answer.  Choose between a multiple choice question
-or a fill-in-the-blank question.
+4. Presenters must also submit a presentation question to the "Presentation
+   Question" assignment on Canvas by Thursday midnight.  The purpose of this
+question is two fold: 1) To force the presenter to think about what he/she
+expects the audience to learn from the presentation and 2) To measure how
+successful the presenter was in conveying the concept.  Choose between a
+multiple choice question or a fill-in-the-blank question.
 
   [Multiple choice example]
   
@@ -55,23 +61,33 @@ Most of the things I said about presentations is also relevant to the report, an
 
 ## Peer review organization
 
-Fill in an anonymous peer review form for 5 presenters assigned to you.  Please use the [Peer Review Form]({{site.baseurl}}/internships/review_form.txt).  The form should be submitted to courseweb by **Sunday midnight** the day after the presentation with the file name PresenterName_ReviewerID.txt.  The presentation slides will be made available on TopHat immediately at the end of class.  Please review [tips for writing a good review]({{site.baseurl}}/review_tips).
+For each presenter, there will be a folder in TopHat containing the slides for
+the presentation, the question created by the presenter, and a few peer review
+questions.  Please view the [Peer Review
+Form]({{site.baseurl}}/internships/review_form.txt) if you wish to see the peer
+review questions beforehand.  The TopHat questions should be submitted to
+TopHat by **Sunday midnight** the day after the presentation.  Please review
+[tips for writing a good review]({{site.baseurl}}/review_tips).  Be specific
+about what you liked and disliked.
 
-On the form is a reviewer ID.  You should have gotten your individual reviewer IDs by email.  Check the [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf) for the 5 presenters assigned to each reviewer ID.
+The peer reviews will be anonymized and then provided to the presenter.  Note
+that the peer reviews *will not impact the presenter's grade*.  You can give
+honest feedback and scores without feeling guilty about lowering your friend's
+grade.  The instructor will make the final determination on the quality of the
+presentation.
 
-On the form is also an Overall Score.  The median of the 5 peer review Overall Scores will be recorded in the Presentation Score of the presenter on courseweb on the week following the presentation (at least by Wednesday).  Note that the median score and peer reviews *will not impact on the presenter's grade*.  You can give honest feedback and scores without feeling guilty about lowering your friend's grade.  The instructor will make the final determination on the quality of the presentation.
-
-Also, on the Feedback to Learner for the Presentation Score will be a Google Drive link to a folder that contains all the peer reviews + instructor's review (file name: "instructor_review").  If the instructor determines that the presentation had a serious problem, the Feedback to Learner will explicitly say so and the presenter will get an email asking him/her to give a second private presentation to the instructor.
+The peer reviews will be made available as feedback on the "Presentation
+Slides" assignment.  It will be attached as a .xlsx Excel file.  Also, the
+instructor will add some more comments in the feedback comment box.
 
 ## Attendance
 
-Just like any class, you are expected to attend regularly.  Please notify me at least **2 days beforehand** if you have a valid excuse for missing a class.  Otherwise, if you miss class due to an emergency (medical or family), please send me documentation of the event.  If you have **more than 3 unexcused absences, you will fail the class**.
+Attendance is highly encouraged.  But we also understand if you cannot participate synchronously due to difficulties imposed by the pandemic.  If you cannot participate, you must listen to the Panopto recordings on your own time.
 
 ## Class Resources
 
 * [Final Schedule]({{site.baseurl}}/internship_presentation_schedule)
 * [Week 2 Lecture on Presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
-* [Peer Review Assignments]({{site.baseurl}}/internships/review_assignments_public.pdf)
 * [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
 * [Final Paper Instructions]({{site.baseurl}}/final_paper)
