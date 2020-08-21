@@ -20,21 +20,158 @@ Note: Some of you may be working on private projects. Please file an issue on th
 
 ### NetApp - Two projects
 
-Project 1
+### [Develop a kernel extension for an Open Source File System]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Fall-2020.pdf)
 
-TBD
+[Presentation]({{site.baseurl}}/projects/pdfs/Pitt Capstone - Fall 2020 Abstract.pptx)
 
-Project 2
+**Project Background**
 
-TBD
+Embedded and distributed systems focused projects are not commonly provided at a bachelor’s level Capstone project. Our goal is to provide an opportunity for aspiring embedded systems engineers to gain experience in this area utilizing an open source embedded file system as a base for developing a specific kernel extension.
+
+Developers at NetApp have been optimizing and enhancing our embedded proprietary file system (WAFL – write anywhere file layout) for over 20 years. Because of the proprietary nature of the file system we will be using an open source equivalent for this project. Working in the C language, students will gain real-life experience developing for embedded, distributed systems.
+
+**Project Summary**
+
+In this project, students will work with the FUSE open source file system installed on Ubuntu Linux platform. The project team will work through the detailed steps below to implement a kernel extension that reports the file system space usage.
+
+**Project Details**
+
+Over the course of this Capstone project, students will accomplish the following high-level goals:
+- Download and install FUSE on Linux.
+- Work through a NetApp provided initial custom example to understand the basic architecture.
+- Create a read/write file system as an underlying test bed and explore the properties of this system.
+- Write the kernel extension (using the C programming language) to implement a user space reporting function.
+- Execute automated tests during the writing of the kernel extension. Enhance the automated tests as necessary.
+- Enhance the file system to store user space consumed data in an in-memory database.
+- Update the in-memory database based on incoming fileops.
+- Implement a space enforcement feature which prevents write fileops that exceed a defined usage limit.
+
+
+### [A Procedurally-Generated API Client Library for Go]({{site.baseurl}}/projects/pdfs/NetApp-Pitt-Capstone-Abstract-Fall-2020.pdf)
+
+**Project Background**
+
+In application development, RESTful APIs are an increasingly popular method of exposing functionality to users. This popularity has led to an effort known as the OpenAPI Initiative, which has formed to standardize how REST APIs are described and documented.
+
+Developers at NetApp have designed a RESTful API for our storage operating system known as ONTAP®. Our API specification follows the OpenAPI standards, which allows our customers and partners to more easily read, explore, test, and consume our API. This, in turn, makes it simple for anyone to develop applications and scripts that are built on ONTAP!
+
+These aren’t the only benefits of adopting the OpenAPI standard—doing so also brings a large ecosystem of tools built around OpenAPI. For this Capstone project, NetApp is looking to leverage the code-generating tool known as Swagger-Codegen. This tool can take any API specification written according to the OpenAPI standard and procedurally generate code designed for any number of purposes and written in any number of different programming languages.
+
+A previously implemented Capstone project to generate an API client library for Python resulted in an officially-released Python Client Library(PCL).
+
+**Project Summary**
+
+In this project, students will work with the Swagger-Codegen tool to generate an API client library for Go. This procedurally generated library will enable simple management of ONTAP with Go.
+
+**Project Details**
+
+Over the course of this Capstone project, students will utilize several programming language and concepts, including:
+- Working with HTTP to interact with RESTful software applications.
+- Writing in Java to extend the Swagger-Codegen tool to utilize the unique functionality of the ONTAP REST APIs.
+- Implementing object-oriented coding principles to design abstract templates used for procedural code generation.
+- Leveraging the strengths of the Go programming language and the functionality of the ONTAP API to create a new Go library to be used by NetApp customers and developers here at NetApp!
+
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
 
-### INTALERE - ONLY 1 OF THE FOLLOWING
+### Intalere - ONLY 1 OF THE FOLLOWING
+
+###[Modernize Hospital Discharge Data Submission Application]({{site.baseurl}}/projects/pdfs/Intalere Capstone Project_CheckNet_Aug2020.docx)
+
+**Project Background**
+
+In most states, hospitals are required to submit accurate and complete discharge data files to the state collection agency each calendar quarter. Managing the collection and submission of this quarterly data to federal and state agencies can be a difficult and time-consuming task. Hospitals need to maintain knowledge of and compliance with rapidly changing rules, as well as have staff with the required technical expertise to manage the process.
+
+CheckNet is utilized by hospitals, ambulatory surgery centers, as well as state data agencies and hospital associations to reduce errors and streamline the collection of discharge data. Easily adapted to the different needs and requirements of any state data agency, the CheckNet solution allows for direct submission of discharge data files via the internet. However, due to the building of this feature from vendors that provide applications for healthcare providers to aggregate claim data, there has been a decline in open market opportunities for CheckNet.
+
+**Project Summary**
+
+Students will develop a modern containerized CheckNet application moving the application into the cloud-hosted by Microsoft Azure and will identify any additional features that would help improve open market opportunities for the application. The front-end of this application is a web UI composed of independent UI microservices.
+
+Students will also receive training and develop in a Domain Driven Design which is a methodology where developers work with the domain expert to visually create a model of the business domain. The business domain is the term used to communicate about concepts in the domain and all of the business rules in the domain. Students will gather information for the domain and graphical models from the domain expert and model it together. This graphical representation of the business domain helps everyone quickly understand the business domain, how things relate to one another, and drives the design of the software.
+
+**Project Details**
+
+Throughout this Capstone project, students will accomplish the following high-level goals:
+- Complete Domain-Driven Design Training provided by Intalere
+- Develop the project in an Agile development methodology  
+- Gain real-world experience participating in a collaborative, product-engineering environment
+- Research and engage with container technologies, including Docker and Kubernetes as well as work with additional technologies such as Visual Studio, Microsoft Azure .NET Core, and SQL Server
+- Ideal student candidates will have experience in Visual Studio and .NET Core/C#
+- Team Size: 2-3 students
+- POC: Joe Morrison – Director, Product Management
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
-### CGI - CGI Client Onboarding Portal
+### [Design a Population Health Analytics Application for the Rural/Community Hospital Market]({{site.baseurl}}/projects/pdfs/Intalere Capstone Project_CheckNet_Aug2020.docx)
+
+**Project Background**
+
+Population Health Management refers to a concerted holistic approach to improving the patient health outcomes of a group of individuals within a community. The U.S. population health management market size was valued at 13.9 billion USD in 2019 and is anticipated to expand at a rate of 20.5% over the forecast period (2026). The market is majorly driven by the growing demand for healthcare IT services and solutions that support value-based healthcare delivery, resulting in a transition from Fee-For-Service (FFS) to a Value-Based Payment (VBP) model.
+
+Some of the tenants of Population Health Management include:
+- patient population profiling to assist with identifying patients at risk for readmission and create patient-specific care plans
+- insights and information regarding social determinants and claims data
+- patient risk scoring regarding health, lifestyle and medical history to create subpopulations through the division of a patient population
+- empowering patients to have a higher level of engagement, education, and participation in their care
+
+For this project, Population Health Management will provide the ability to target health trends, service utilization, health outcomes in key markets. It will help organizations to understand their community and the types of people who live there and the future services needed.
+
+**Project Summary**
+
+Students will aid in the development of features and analysis needed to provide a Minimal Viable Product (MVP) in the development of a Population Health Management module for rural and community healthcare providers combining patient claim data with census forecast data.
+
+The application will utilize Experian CAPE demographics census forecasting data as well as needed patient claim data which will be combined to provide a rolling 5-year forecast of increase and/or decrease in patient categories grouped by disease state (i.e. Diabetes, Hypertension, Cardiac Disease)
+
+The application will be built in the Microsoft Azure Cloud environment with end-user reporting, data visualization, and analysis provided via a Tableau Business Intelligence environment.
+
+Students will also receive training and develop in a Domain Driven Design which is a methodology where developers work with the domain expert to visually create a model of the business domain. The business domain is the term used to communicate about concepts in the domain and all of the business rules in the domain. Students will gather information for the domain and graphical models from the domain expert and model it together. This graphical representation of the business domain helps everyone quickly understand the business domain, how things relate to one another, and drives the design of the software.
+
+
+
+**Project Details**
+
+Throughout this Capstone project, students will accomplish the following high-level goals:
+- Complete Domain-Driven Design Training provided by Intalere
+- Develop the project in an Agile development methodology  
+- Gain real-world experience participating in a collaborative, product-engineering environment
+- Research and engage with container technologies, including Docker and Kubernetes as well as work with additional technologies such as Visual Studio, Microsoft Azure, .NET Core, Tableau and SQL Server
+- Ideal student candidates will have experience in Visual Studio and .NET Core/C#
+- Team Size: 2-3 students
+- POC: Joe Morrison – Director, Product Management
+
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
+
+### [CGI Client Onboarding Portal]({{site.baseurl}}/projects/pdfs/CGI_Capstone_Project_Proposal.pdf)
+The processes of onboarding and knowledge transfer for new members on a project team are often challenging and have an impact a members’ project experience. CGI aims to improve the project experience of its members by facilitating effective knowledge acquisition & transfer processes which, in-turn, will help reduce project costs and shorten onboarding timelines.
+
+In an effort to achieve this goal, we are looking to engage several students on a diverse team to build the foundation of a “client-project onboarding portal”. This portal will provide new team members with visibility into their assigned tasks while also enabling them to track their performance against these tasks, in order to be productive on their new projects. These onboarding tasks can represent formal trainings, required technology-stack-skills, and/or required paperwork.
+
+**Project Overview**
+To formulate and build a portal that will serve as an Onboarding and Knowledge Management solution, designed to make the process of onboarding new CGI members to project teams more efficient and effective. Students will work with a team of CGI experts to not only help solve this problem/challenge but also learn critical skills needed as they enter the workforce.
+
+**Project Details**
+
+The proposed Onboarding and Knowledge Management portal will achieve a couple of objectives:
+- Provide a structured way for new team members to be onboarded to a project/team
+- Provide the ability to track a team members progress against an onboarding plan
+- Provide a platform where project knowledge can be captured, shared, and archived on an ongoing basis
+
+The following non-exhaustive scenarios have been identified to achieve these objectives:
+- A new or existing team member logs-in to the portal and is presented with tasks that have been assigned to them
+- A project manager and/or lead can create and/or assign tasks to his or her team members
+- A user’s ability to use a “Copy From” feature to duplicate and assign an existing task list to team members
+- A reporting tool that enables project managers and/or leads track member progress and also review/approve the completion status of onboarding tasks
+
+The outcome of this Capstone Project would be a software solution that meets these objectives, along with its associated artifacts like architecture documentation, user personas, user journeys/workflows, UI/UX prototypes, software development environment setup, code documentation, testing artifacts, etc.
+
+Students should expect to learn about modern software-development techniques in an enterprise setting such as:
+- Design-thinking methodologies
+- Ideation and UI/UX rapid prototyping
+- Agile software development
+- Product and Project management
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
@@ -136,6 +273,12 @@ Technologies: This will mostly be done in JavaScript and node.js, along with dis
 Team Size: 3-4 students
 POC: Bill Laboon, Web3 Foundation Technical Education Lead (and Lecturer currently on leave from the University of Pittsburgh) - bill@web3.foundation
 
+### Malihe Alikhani - two projects
+
+Team Size: 3-4 students/project
+POC: Malihe Alikhani
+
+
 
 # Other university projects
 
@@ -177,8 +320,8 @@ Here are some examples of similar ideas:
   - All of our answers aren’t the same on-campus, but in general the answers are reflective of Pitt and Pittsburgh’s waste diversion reality.
 
 Team Size: 3-4 students
+* POC (primary): Samantha Ford. Sustainability Projects Coordinator, University of Pittsburgh
 * POC: Aurora Sharrard, Director of Sustainability, University of Pittsburgh
-* POC: Samantha Ford. Sustainability Projects Coordinator, University of Pittsburgh
 
 
 ### Decision support Police
