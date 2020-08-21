@@ -177,7 +177,9 @@ Students should expect to learn about modern software-development techniques in 
 
 
 
-### Deloitte - [Center for Disease Control and Prevention: Allocation of Funds and Education Resources to Combat Opioid Use Disorder (OUD)]({{site.baseurl}}/projects/pdfs/___.pdf)
+### Deloitte - [Center for Disease Control and Prevention: Allocation of Funds and Education Resources to Combat Opioid Use Disorder (OUD)](https://canvas.pitt.edu/courses/46886/files/folder/privately_shared_projects)
+
+Check canvas for the project description.
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
@@ -332,5 +334,29 @@ Team Size: 3-4 students
 * POC: Aurora Sharrard, Director of Sustainability, University of Pittsburgh
 
 
-### Decision support Police
-### NLP police
+### Decision support - G2A policing
+
+This project aims at creating a website to help informing people and helping them navigate
+through the difficult process of investigating police misconduct.
+
+The application will help navigate the investigation procedure.
+Many scenarios that can happen, but there are 6 parts to the police investigation
+1. Complaint
+2. Notification
+3. Investigation
+4. Conviction
+5. Ex-post (what happens after conviction)
+6. Record keeping
+
+**Two parts**
+This project has two distinct parts, and which ones you will work on depends on your interests.
+So you can work on
+1. Creation of the website tool.
+2. Using Natural Language Processing to extract data from police union contracts.
+3. A mix of both.
+
+* Areas of Interest: Web-development, NLP
+* Helpful Skills for NLP: Python, R, regex (or you'll need to learn them)
+* Helpful Skills for web-dev: No restrictions, but useful to know JavaScript/Angular/Vue/etc.
+* Group Size: 3-4 students
+* POC: Sera Linardi, Eliana Beigel
