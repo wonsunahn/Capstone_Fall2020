@@ -14,7 +14,7 @@ Status: Complete
 
 ### Gu, Tianrun
 Advisor: S.K Chang  
-Status: Complete 
+Status: Complete
 
 ### Munirji, Alan Elias  
 Advisor: Robin E. C. Lee  
@@ -27,3 +27,16 @@ Status: In progress
 ### Yan, Tiruo  
 Advisor: Adriana Kovashka  
 Status: Complete (Pending confirmation)  
+
+### Avi Glozman
+Advisor: Kristine Pugliese
+Faculty sponsors: Daniel Mossé, Dmitriy Babichenko
+Status: In progress (approaching completion)
+
+# Jim Tomko
+Advisor: Stephen Lee
+Status: In progress (End of semester)
+
+# Vasco Xu
+Advisor: Daniel Mossé
+Status: Completed(?)

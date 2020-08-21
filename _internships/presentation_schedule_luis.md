@@ -20,7 +20,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 4 SEP)
 
-* [Empty]
+* Rohit Ganguly
 * [Empty]
 * [Empty]
 * [Empty]
