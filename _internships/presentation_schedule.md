@@ -6,13 +6,6 @@ permalink: /internship_presentation_schedule
 
 Due to COVID-19 all presentations will be given over Zoom.
 
-
-A short tutorial on how to join a presentation:  
-[https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4](https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4)
-
-A short tutorial on how to share your slides when giving your presentation:  
-[https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7](https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)
-
 Don't forget to send your instructor your slides by the previous day midnight.
 
 The presentations will be given in the order they are listed on the particular date.
@@ -67,8 +60,12 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 13 (Week of 9 NOV)
 
-* Student presentations
+* Zachary Grimaldi
+* Solomon Heisey
+* Katelyn Morrison
 
 ## WEEK 14 (Week of 16 NOV)
 
-* Student presentations
+* Ethan Myers
+* Joseph Paul
+* Caleb Tucker-Loewe
