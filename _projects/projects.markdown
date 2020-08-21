@@ -336,6 +336,8 @@ Team Size: 3-4 students
 
 ### Decision support - G2A policing
 
+[presentation](https://wonsunahn.github.io/Capstone_Fall2020/projects/)
+
 This project aims at creating a website to help informing people and helping them navigate
 through the difficult process of investigating police misconduct.
 
