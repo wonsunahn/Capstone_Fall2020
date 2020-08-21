@@ -95,7 +95,7 @@ Attendance is highly encouraged.  But we also understand if you cannot participa
 ## Class Resources
 
 * [Final Schedule (12:10 PM - 1:00 PM class)]({{site.baseurl}}/internship_presentation_schedule)
-* [Final Schedule (1:15 PM - 2:05 PM class)]
+* [Final Schedule (1:15 PM - 2:05 PM class)]({{site.baseurl}}/internship_presentation_schedule_1pm)
 * [Week 2 Lecture on Presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 * [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)
