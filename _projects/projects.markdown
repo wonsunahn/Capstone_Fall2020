@@ -236,6 +236,12 @@ Experimentally we would like to understand how data-intensive applications spann
 * POC: Vinicius Petrucci (vpetrucci@pitt.edu)
 
 
+### [Build a Wireless Sensing Unit to Integrate Sensor Data with Virtual Reality for Balance Training]({{site.baseurl}}/projects/pdfs/Biehl_Project.docx)
+
+Check the document, it has pictures in it. So I didn't include the text here.
+
+* Team Size: 3-4 students
+* POC: Jacob Biehl
 
 
 <!--### A website for handing-in programming assignments
