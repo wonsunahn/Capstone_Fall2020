@@ -9,7 +9,7 @@ permalink: /CS1900_1950/
 You have four responsibilities this term:
 
 1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
-   * Also come up with a question your classmates should be able to answer after your presentation.
+   * Also come up with a question your classmates should be able to answer after your presentation.  
   
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
@@ -25,20 +25,20 @@ If you submit your final paper at least one week before the deadline, you will b
 
 1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is **8/28 (Friday)**.  If you do not submit the poll, an arbitrary date will be chosen for you.
    * [Doodle poll for 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010)]
-   * [Doodle poll for 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060)]
+   * [Doodle poll for 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060)]  
   
 2. These are the expected lengths of your presentation depending on the section you signed up with:
    * 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010): 9 minute presentation with 2 minutes Q&A
-   * 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060): TBD
+   * 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060): TBD  
   
-2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
+3. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
 
-3. Presenters must submit their presentation slides to the "Presentation
+4. Presenters must submit their presentation slides to the "Presentation
    Slides" assignment on Canvas the day before, by **Thursday midnight**.  The
 slides will be uploaded to TopHat so that they can be reviewed by your
 classmates.  The preferred format is PDF or Powerpoint.  
 
-4. Presenters must also submit a presentation question to the "Presentation
+5. Presenters must also submit a presentation question to the "Presentation
    Question" assignment on Canvas by Thursday midnight.  The purpose of this
 question is two fold: 1) To force the presenter to think about what he/she
 expects the audience to learn from the presentation and 2) To measure how
