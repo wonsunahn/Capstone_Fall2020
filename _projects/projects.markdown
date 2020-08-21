@@ -361,4 +361,4 @@ So you can work on
 * Helpful Skills for NLP: Python, R, regex (or you'll need to learn them)
 * Helpful Skills for web-dev: No restrictions, but useful to know JavaScript/Angular/Vue/etc.
 * Group Size: 3-4 students
-* POC: Sera Linardi, Eliana Beigel
+* POC: Sera Linardi (linardi@pitt.edu), Eliana Beigel
