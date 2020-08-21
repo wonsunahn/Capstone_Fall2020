@@ -9,8 +9,7 @@ permalink: /CS1900_1950/
 You have four responsibilities this term:
 
 1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
-   * Also come up with a question your classmates should be able to answer after your presentation.  
-
+   * Also come up with a question your classmates should be able to answer after your presentation.<p>
 
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
