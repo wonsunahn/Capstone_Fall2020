@@ -176,6 +176,11 @@ Students should expect to learn about modern software-development techniques in 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
 
+
+### Deloitte - [Center for Disease Control and Prevention: Allocation of Funds and Education Resources to Combat Opioid Use Disorder (OUD)]({{site.baseurl}}/projects/pdfs/___.pdf)
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
 ## CS Faculty Projects
 
 
@@ -273,9 +278,14 @@ Technologies: This will mostly be done in JavaScript and node.js, along with dis
 Team Size: 3-4 students
 POC: Bill Laboon, Web3 Foundation Technical Education Lead (and Lecturer currently on leave from the University of Pittsburgh) - bill@web3.foundation
 
-### Malihe Alikhani - two projects
+### Malihe Alikhani - three projects
 
-Team Size: 3-4 students/project
+- SCITalk: An Interactive Conversational Agent for Exploring and Visualizing Data
+
+- BookTalk: An Interactive Conversational Mobile Application for Book Recommendation
+
+- PittCoffee: A Smart Conversational Mobile Application for Placing Food Orders
+
 POC: Malihe Alikhani
 
 
@@ -283,8 +293,6 @@ POC: Malihe Alikhani
 # Other university projects
 
 ## Green Guide Recycling Game
-
-
 
 Pitt Sustainability want to make a game to teach people to recycle, compost, and donate on campus.
 
