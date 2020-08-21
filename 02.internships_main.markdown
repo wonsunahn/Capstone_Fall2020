@@ -9,8 +9,8 @@ permalink: /CS1900_1950/
 You have four responsibilities this term:
 
 1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
-   * Also come up with a question your classmates should be able to answer after your presentation.<br><br>
-
+   * Also come up with a question your classmates should be able to answer after your presentation.
+  
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
 3. Answer the presentation question and fill out peer reviews for each presentation (other than your own) on TopHat.  See [Peer review organization](#peer-review-organization)
@@ -25,12 +25,12 @@ If you submit your final paper at least one week before the deadline, you will b
 
 1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is **8/28 (Friday)**.  If you do not submit the poll, an arbitrary date will be chosen for you.
    * [Doodle poll for 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010)]
-   * [Doodle poll for 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060)] <br><br>
-
+   * [Doodle poll for 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060)]
+  
 2. These are the expected lengths of your presentation depending on the section you signed up with:
    * 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010): 9 minute presentation with 2 minutes Q&A
-   * 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060): TBD <br><br>
-
+   * 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060): TBD
+  
 2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
 
 3. Presenters must submit their presentation slides to the "Presentation
