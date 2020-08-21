@@ -238,7 +238,7 @@ Experimentally we would like to understand how data-intensive applications spann
 
 
 
-### A website for handing-in programming assignments
+<!--### A website for handing-in programming assignments
 
 
 Tim Hoffman's hand-in system is behind the VPN. Due to so many students having trouble getting the VPN to work – he needs a workaround.  There are around 280 students and doing this by email by hand is very time consuming.
@@ -251,7 +251,7 @@ If someone has a great idea I’d love to give them a shot at it.
 
 * Team Size: 2-3 students
 * POC: Tim Hoffman
-
+-->
 
 ### Stephen Lee - two projects
 
