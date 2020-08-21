@@ -23,42 +23,70 @@ The presentations will be given in the order they are listed on the particular d
 * Shawn Blake
 * Maxwell Gravitte
 * Jackson Perry
+* [Empty]
 
 ## WEEK 4 (Week of 11 SEP)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 5 (Week of 18 SEP)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 6 (Week of 25 SEP)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 7 (Week of 2 OCT)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 8 (Week of 9 OCT)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 9 (Week of 16 OCT)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 10 (Week of 23 OCT)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 11 (Week of 30 OCT)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 12 (Week of 6 NOV)
 
-* Student presentations
+* [Empty]
+* [Empty]
+* [Empty]
+* [Empty]
 
 ## WEEK 13 (Week of 13 NOV)
 
