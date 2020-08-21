@@ -18,7 +18,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * [Lecture on giving a good presentation]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 
-## WEEK 3 (Week of 4 sEP)
+## WEEK 3 (Week of 4 SEP)
   
 * Shawn Blake
 * Maxwell Gravitte
