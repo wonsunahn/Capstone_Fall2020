@@ -55,47 +55,49 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 8 (Week of 9 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Matthew Ludwig
+* Mary Tsvetkova
+* Yousuf Hameedullah
+* Brian Rossi
 
 ## WEEK 9 (Week of 16 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Coleton Bryan
+* Oktay Ahverdiyev
+* Krutarth Patel
+* Matthew Lo
 
 ## WEEK 10 (Week of 23 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Neel Trivedi
+* Jonathan Norris
+* Brett Jones
+* Zvonty Flugence
 
 ## WEEK 11 (Week of 30 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Noah LaFerriere
+* Siyu Zhang
+* Erik Nordby
+* Zach Liu
 
 ## WEEK 12 (Week of 6 NOV)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Jiyue (Tom) Yang
+* Ian Lundberg
+* Solomon Heisey
+* Ryan Yang
 
 ## WEEK 13 (Week of 13 NOV)
 
 * Zachary Grimaldi
-* Solomon Heisey
-* Katelyn Morrison
+* Joseph Paul
+* Ryan Duff
+* Xingchen Zhao
 
 ## WEEK 14 (Week of 20 NOV)
 
+* Solomon Heisey
+* Katelyn Morrison
 * Ethan Myers
-* Joseph Paul
 * Caleb Tucker-Loewe
