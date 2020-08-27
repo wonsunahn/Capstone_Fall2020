@@ -23,35 +23,35 @@ The presentations will be given in the order they are listed on the particular d
 * Shawn Blake
 * Maxwell Gravitte
 * Jackson Perry
-* [Empty]
+* Josh Jaslow
 
 ## WEEK 4 (Week of 11 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Matthew Petersen
+* Griffin Lynch
+* Noah Fenton
+* Ashley Stauffer
 
 ## WEEK 5 (Week of 18 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Alex Bailey
+* Victoria Chuah
+* Josh Arabia
+* Noah Vienneau
 
 ## WEEK 6 (Week of 25 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Derek Nadeau
+* Aiden Fertich
+* John Hudson
+* James Kinter
 
 ## WEEK 7 (Week of 2 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Anna Beach
+* Keaton Hanna
+* James Fleckenstein
+* Qing Chen
 
 ## WEEK 8 (Week of 9 OCT)
 
