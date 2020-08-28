@@ -6,10 +6,10 @@ permalink: /CS1900_1950/
 
 ## Your responsibilities
 
-You have five responsibilities this term:
+You have four responsibilities this term:
 
-1. Give a 10 minute presentation on your work with 2 minutes q&a.  See [Presentation organization](#presentation-organization).
-   * Also come up with a question your classmates should be able to answer after your presentation.
+1. Give a presentation on your work.  See [Presentation organization](#presentation-organization).
+   * Also come up with a question your classmates should be able to answer after your presentation. <br/><br/>
 
 2. Write a final paper.  See [Final paper organization](#final-paper-organization).
 
@@ -17,28 +17,36 @@ You have five responsibilities this term:
 
 4. CS 1950 students: send weekly reports to your instructor and advisor by email.
 
+If your presentation is not satisfactory, you will be asked to present once more with your instructor one-on-one outside of class hours.  This will be your final chance to give a satisfactory presentation.
+
+If you submit your final paper at least one week before the deadline, you will be provided feedback and given a chance to resubmit if your paper is not satisfactory.
+
 ## Presentation organization
 
 1. Please sign up for a presentation date ASAP using one of the below Doodle polls.  The deadline is **8/28 (Friday)**.  If you do not submit the poll, an arbitrary date will be chosen for you.
-   * [Doodle poll for Wonsun Ahn's class (CS 1900-1010 or CS 1950-1010)]
-   * [Doodle poll for Luis Oliveira' class (CS 1900-1060 or CS 1950-1060)]
+   * [Doodle poll for 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010)](https://doodle.com/poll/ngzpvqb34rgegrq8)
+   * [Doodle poll for 13:15 PM - 14:05 PM class (CS 1900-1060 or CS 1950-1060)](https://doodle.com/poll/iqe36kru8c4qctqm) <br/><br/>
 
-2. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
+2. These are the expected lengths of your presentation depending on the section you signed up with:
+   * 12:10 PM - 1:00 PM class (CS 1900-1010 or CS 1950-1010): 9 minute presentation with 2 minutes Q&A
+   * 1:15 PM - 2:05 PM class (CS 1900-1060 or CS 1950-1060): 9 minute presentation with 2 minutes Q&A <br/><br/>
 
-3. Presenters must submit their presentation slides to the "Presentation
+3. Please review [lecture on presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf) before giving your presentation.  
+
+4. Presenters must submit their presentation slides to the "Presentation
    Slides" assignment on Canvas the day before, by **Thursday midnight**.  The
 slides will be uploaded to TopHat so that they can be reviewed by your
 classmates.  The preferred format is PDF or Powerpoint.  
 
-4. Presenters must also submit a presentation question to the "Presentation
+5. Presenters must also submit a presentation question to the "Presentation
    Question" assignment on Canvas by Thursday midnight.  The purpose of this
-question is two fold: 1) To force the presenter to think about what he/she
-expects the audience to learn from the presentation and 2) To measure how
+question is two fold: 1) To force the presenter to think about what they
+expect the audience to learn from the presentation and 2) To measure how
 successful the presenter was in conveying the concept.  Choose between a
 multiple choice question or a fill-in-the-blank question.
 
    [Multiple choice example]
-  
+
    Q: Which color is not represented in the RGB color model?  
    a) Red  
    b) Green  
@@ -86,7 +94,8 @@ Attendance is highly encouraged.  But we also understand if you cannot participa
 
 ## Class Resources
 
-* [Final Schedule]({{site.baseurl}}/internship_presentation_schedule)
+* [Final Schedule (12:10 PM - 1:00 PM class)]({{site.baseurl}}/internship_presentation_schedule)
+* [Final Schedule (1:15 PM - 2:05 PM class)]({{site.baseurl}}/internship_presentation_schedule_1pm)
 * [Week 2 Lecture on Presentations]({{site.baseurl}}/lectures/lecture-on-presentations-internship.pdf)
 * [Peer Review Form]({{site.baseurl}}/internships/review_form.txt)
 * [Peer Review Tips]({{site.baseurl}}/review_tips)

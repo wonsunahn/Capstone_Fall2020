@@ -6,7 +6,7 @@ permalink: /projects/
 # Capstone Project List
 
 
-Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (15 January) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (17 January). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
+Please file your top THREE choices as an issue with a title beginning with PROJECT (will go over in class) by Wednesday (26 August) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BY the next Capstone class on Friday (28 August). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!  YOU WILL NOT BE PLACED ON A PROJECT IF YOU DO NOT FILE AN ISSUE!
 
 REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
 
@@ -18,9 +18,11 @@ Note: Some of you may be working on private projects. Please file an issue on th
 
 ## Industry Capstone Projects
 
-### NetApp - Develop a kernel extension for an Open Source File System [download]({{site.baseurl}}/projects/files/NetApp-SOS-Pitt-Capstone-Abstract-Spring-2020.pdf)
+### NetApp - Two projects
 
-[Presentation]({{site.baseurl}}/projects/files/FS Pitt Capstone - Spring 2020 Abstract.pptx)
+### [Develop a kernel extension for an Open Source File System]({{site.baseurl}}/projects/pdfs/NetApp-SOS-Pitt-Capstone-Abstract-Fall-2020.pdf)
+
+[Presentation]({{site.baseurl}}/projects/pdfs/Pitt Capstone - Fall 2020 Abstract.pptx)
 
 **Project Background**
 
@@ -29,326 +31,340 @@ Embedded and distributed systems focused projects are not commonly provided at a
 Developers at NetApp have been optimizing and enhancing our embedded proprietary file system (WAFL – write anywhere file layout) for over 20 years. Because of the proprietary nature of the file system we will be using an open source equivalent for this project. Working in the C language, students will gain real-life experience developing for embedded, distributed systems.
 
 **Project Summary**
+
 In this project, students will work with the FUSE open source file system installed on Ubuntu Linux platform. The project team will work through the detailed steps below to implement a kernel extension that reports the file system space usage.
 
 **Project Details**
+
 Over the course of this Capstone project, students will accomplish the following high-level goals:
-
-* Download and install FUSE on Linux.
-* Work through a NetApp provided initial custom example to understand the basic architecture.
-* Create a read/write file system as an underlying test bed and explore the properties of this system.
-* Write the kernel extension (using the C programming language) to implement a user space reporting function.
-* Execute automated tests during the writing of the kernel extension. Enhance the automated tests as necessary.
-* Enhance the file system to store user space consumed data in an in-memory database.
-* Update the in-memory database based on incoming fileops.
-* Implement a space enforcement feature which prevents write fileops that exceed a defined usage limit.
-
-
-* Team Size: 4 students
-* POC: Kurt Johanknecht
-
-### NetApp - Extending a Microservice Architecture and Developing a Test Framework [download]({{site.baseurl}}/projects/pdfs/Spring 2020 Capstone Abstract.pdf)
-
-[Presentation]({{site.baseurl}}/projects/files/MS Spring 2020 Capstone.pptx)
+- Download and install FUSE on Linux.
+- Work through a NetApp provided initial custom example to understand the basic architecture.
+- Create a read/write file system as an underlying test bed and explore the properties of this system.
+- Write the kernel extension (using the C programming language) to implement a user space reporting function.
+- Execute automated tests during the writing of the kernel extension. Enhance the automated tests as necessary.
+- Enhance the file system to store user space consumed data in an in-memory database.
+- Update the in-memory database based on incoming fileops.
+- Implement a space enforcement feature which prevents write fileops that exceed a defined usage limit.
 
 
-**Project Background**
-The microservice model is commonly associated with the “back-end” of an application. In this style of architecture, the logic behind an application is composed from independent and loosely coupled microservice pieces. A shopping website, for instance, might have a microservice for retrieving inventory details, another microservice for managing the shopping cart, and yet another microservice for payment processing. Each piece can be developed independently, and then composed together to form the larger application. This is one of the many benefits of the microservice architecture as they are independently deployable.
-In order to make sure the highest quality software is delivered; it needs to be tested while it is being developed. For example, if a new microservice is added to the application, we need to run some integration testing to make sure nothing has regressed with the addition of a new microservice. This is especially important when multiple teams are working on the application.
-
-**Project Summary**
-The students will develop a proof of concept testing framework for a containerized application. They will utilize and extend the infrastructure created by previous capstone students to create an automation suite that will run tests when new microservices are added to the application. As a stretch goal, students can create a test script generator that will automatically generate test cases for new microservices and run those tests once the microservice is checked into the code line.
-
-**Project Details**
-Over the course of this Capstone project, students will accomplish the following high-level goals:
-* Plan and manage their own Agile-style development project.
-* Gain real-world experience participating in a collaborative, product-engineering environment
-* Research and engage with container technologies, including Docker, Kubernetes
-* Implement a continuous integration testing framework
-* Learn about the REST and microservices architectures
-
-* Team Size: 4 students
-* POC: Tim Banyas and Twesha Mitra
-
-### INTALERE - Modernize Hospital Discharge Data Submission Application [download]({{site.baseurl}}/projects/files/Intalere Capstone Project.pdf)
+### [A Procedurally-Generated API Client Library for Go]({{site.baseurl}}/projects/pdfs/NetApp-Pitt-Capstone-Abstract-Fall-2020.pdf)
 
 **Project Background**
 
-In most states, hospitals are required to submit accurate and complete discharge data files to the state collection agency each calendar quarter. Managing the collection and submission of this quarterly data to federal and state agencies can be a difficult and time-consuming task. Hospitals need to maintain knowledge of and compliance with rapidly changing rules, as well as have staff with the required technical expertise to manage the process.
-CheckNet is utilized by hospitals, ambulatory surgery centers, as well as state data agencies and hospital associations to reduce errors and streamline the collection of discharge data. Easily adapted to the different needs and requirements of any state data agency, the CheckNet solution allows for direct submission of discharge data files via the internet.
+In application development, RESTful APIs are an increasingly popular method of exposing functionality to users. This popularity has led to an effort known as the OpenAPI Initiative, which has formed to standardize how REST APIs are described and documented.
+
+Developers at NetApp have designed a RESTful API for our storage operating system known as ONTAP®. Our API specification follows the OpenAPI standards, which allows our customers and partners to more easily read, explore, test, and consume our API. This, in turn, makes it simple for anyone to develop applications and scripts that are built on ONTAP!
+
+These aren’t the only benefits of adopting the OpenAPI standard—doing so also brings a large ecosystem of tools built around OpenAPI. For this Capstone project, NetApp is looking to leverage the code-generating tool known as Swagger-Codegen. This tool can take any API specification written according to the OpenAPI standard and procedurally generate code designed for any number of purposes and written in any number of different programming languages.
+
+A previously implemented Capstone project to generate an API client library for Python resulted in an officially-released Python Client Library(PCL).
 
 **Project Summary**
 
-Students will develop a modern containerized CheckNet application moving the application into the cloud hosted by Microsoft Azure. The front-end of this application is a web UI composed from independent UI microservices.
-Students will also receive training and develop in Domain Driven Design which is a methodology where developers work with the domain expert to visually create a model of the business domain. The business domain are the terms used to communicate about concepts in the domain and all of the business rules in the domain. Students will gather information for the domain and graphical models from the domain expert and model it together. This graphical representation of the business domain helps everyone quickly understand the business domain, how things relate to one another and drives the design of the software.
+In this project, students will work with the Swagger-Codegen tool to generate an API client library for Go. This procedurally generated library will enable simple management of ONTAP with Go.
 
 **Project Details**
 
-Over the course of this Capstone project, students will accomplish the following high-level goals:
-* Complete Domain Driven Design Training provided by Intalere
-* Develop the project in an Agile development methodology  
-* Gain real-world experience participating in a collaborative, product-engineering environment
-* Research and engage with container technologies, including Docker and Kubernetes as well as work with additional technologies such as Visual Studio, Microsoft Azure .NET Core, and SQL Server
-* Ideal student candidates will have experience in Visual Studio and .NET Core/C#
-
-* Team Size: 3 students
-* POC: Joe Morrison
-
-
-### Behaivior - Develop a Mobile Application to Help Support People in Recovery from Opioid Addiction
-
-
-**Project Background**
-This team will work with Behaivior to help support people in recovery from opioid addiction. Over the course of the semester, the students will build a mobile application for collecting and analyzing wearable and smartphone information. While scope is flexible, the application should provide mechanisms for users to manually enter appointment times, medication information, share location information, and connect to resources. The application should provide a clean user interface and user experience for identifying when appointments are, when medications need to be taken and the user’s actions. Summary interfaces, for the day, week, and/or month should summarize appointment adherence, medication adherence performance (e.g. overall number of doses taken and missed, performance by prescription, performance by day of week).
-
-For the right team, advanced features could be built into the application. These include leveraging wearable technologies (SDKs), API’s, Cloud Tech, Mobile Tech (GPS, Contacts) and AI. These technologies will be utilized to assist in data collection, display, and decision making to help provide immediate (real-time) corrections (push notifications) to current Persons in Recovery (PiRs). These features could power location-based behavioral corrections. Students could also push on functionality to allow family members or medical staff to perform lightweight interventions and encouragement (e.g. sending motivating notifications and messages).
-
-Students can choose programming language and development frameworks that best fit their expertise and interest. Preference would be the construction of a native Android or iOS application, as these platforms are broadly in use. Further, sponsors have experience in these platforms and thus can be a resource for the students as well. Currently some of the data collection tech is built in Python, but that’s not a necessity.
-
-* Team Size: 4 students
-* POC: Ellie Gordon & Lou Simon
+Over the course of this Capstone project, students will utilize several programming language and concepts, including:
+- Working with HTTP to interact with RESTful software applications.
+- Writing in Java to extend the Swagger-Codegen tool to utilize the unique functionality of the ONTAP REST APIs.
+- Implementing object-oriented coding principles to design abstract templates used for procedural code generation.
+- Leveraging the strengths of the Go programming language and the functionality of the ONTAP API to create a new Go library to be used by NetApp customers and developers here at NetApp!
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
 
-### InvolveMINT
-InvolveMINT is planning on creating a Social Resume - a central digital repository and profile that catalogues all work, associated clearances, certifications, clearances, background checks, etc. Many organizations require certain types of certifications or clearances to work on their project. However, individuals with the desire to serve may not have the required clearances or certifications, or have received said certifications, but do not have a central repository for documentation. This presents a barrier, especially  for individuals with low-incomes, to getting involved and supporting the organization and the challenges they address.
+### Intalere - ONLY 1 OF THE FOLLOWING
 
-Starting with the most common clearances and certifications required by nonprofit organizations, involveMINT’s goal is to chronicle, automate, and then securely store said clearance/certification in a Social Resume as central repository to the furthest extent possible to make it easier for income scarce individuals to provide the required documentation to partake in service projects.
+###[Modernize Hospital Discharge Data Submission Application]({{site.baseurl}}/projects/pdfs/Intalere Capstone Project_CheckNet_Aug2020.docx)
 
-Development stack:
-Database - PostgreSQL
-Deployment - Heroku
-Authentication - Auth0
-Frontend - Ionic/Angular
-Frontend state management solution - Akita
-Backend - Firebase
+**Project Background**
 
-* POC: Daniel Little
-* Team Size: 3 students
+In most states, hospitals are required to submit accurate and complete discharge data files to the state collection agency each calendar quarter. Managing the collection and submission of this quarterly data to federal and state agencies can be a difficult and time-consuming task. Hospitals need to maintain knowledge of and compliance with rapidly changing rules, as well as have staff with the required technical expertise to manage the process.
 
+CheckNet is utilized by hospitals, ambulatory surgery centers, as well as state data agencies and hospital associations to reduce errors and streamline the collection of discharge data. Easily adapted to the different needs and requirements of any state data agency, the CheckNet solution allows for direct submission of discharge data files via the internet. However, due to the building of this feature from vendors that provide applications for healthcare providers to aggregate claim data, there has been a decline in open market opportunities for CheckNet.
+
+**Project Summary**
+
+Students will develop a modern containerized CheckNet application moving the application into the cloud-hosted by Microsoft Azure and will identify any additional features that would help improve open market opportunities for the application. The front-end of this application is a web UI composed of independent UI microservices.
+
+Students will also receive training and develop in a Domain Driven Design which is a methodology where developers work with the domain expert to visually create a model of the business domain. The business domain is the term used to communicate about concepts in the domain and all of the business rules in the domain. Students will gather information for the domain and graphical models from the domain expert and model it together. This graphical representation of the business domain helps everyone quickly understand the business domain, how things relate to one another, and drives the design of the software.
+
+**Project Details**
+
+Throughout this Capstone project, students will accomplish the following high-level goals:
+- Complete Domain-Driven Design Training provided by Intalere
+- Develop the project in an Agile development methodology  
+- Gain real-world experience participating in a collaborative, product-engineering environment
+- Research and engage with container technologies, including Docker and Kubernetes as well as work with additional technologies such as Visual Studio, Microsoft Azure .NET Core, and SQL Server
+- Ideal student candidates will have experience in Visual Studio and .NET Core/C#
+- Team Size: 2-3 students
+- POC: Joe Morrison – Director, Product Management
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
+### [Design a Population Health Analytics Application for the Rural/Community Hospital Market]({{site.baseurl}}/projects/pdfs/Intalere Capstone Project_CheckNet_Aug2020.docx)
+
+**Project Background**
+
+Population Health Management refers to a concerted holistic approach to improving the patient health outcomes of a group of individuals within a community. The U.S. population health management market size was valued at 13.9 billion USD in 2019 and is anticipated to expand at a rate of 20.5% over the forecast period (2026). The market is majorly driven by the growing demand for healthcare IT services and solutions that support value-based healthcare delivery, resulting in a transition from Fee-For-Service (FFS) to a Value-Based Payment (VBP) model.
+
+Some of the tenants of Population Health Management include:
+- patient population profiling to assist with identifying patients at risk for readmission and create patient-specific care plans
+- insights and information regarding social determinants and claims data
+- patient risk scoring regarding health, lifestyle and medical history to create subpopulations through the division of a patient population
+- empowering patients to have a higher level of engagement, education, and participation in their care
+
+For this project, Population Health Management will provide the ability to target health trends, service utilization, health outcomes in key markets. It will help organizations to understand their community and the types of people who live there and the future services needed.
+
+**Project Summary**
+
+Students will aid in the development of features and analysis needed to provide a Minimal Viable Product (MVP) in the development of a Population Health Management module for rural and community healthcare providers combining patient claim data with census forecast data.
+
+The application will utilize Experian CAPE demographics census forecasting data as well as needed patient claim data which will be combined to provide a rolling 5-year forecast of increase and/or decrease in patient categories grouped by disease state (i.e. Diabetes, Hypertension, Cardiac Disease)
+
+The application will be built in the Microsoft Azure Cloud environment with end-user reporting, data visualization, and analysis provided via a Tableau Business Intelligence environment.
+
+Students will also receive training and develop in a Domain Driven Design which is a methodology where developers work with the domain expert to visually create a model of the business domain. The business domain is the term used to communicate about concepts in the domain and all of the business rules in the domain. Students will gather information for the domain and graphical models from the domain expert and model it together. This graphical representation of the business domain helps everyone quickly understand the business domain, how things relate to one another, and drives the design of the software.
+
+
+
+**Project Details**
+
+Throughout this Capstone project, students will accomplish the following high-level goals:
+- Complete Domain-Driven Design Training provided by Intalere
+- Develop the project in an Agile development methodology  
+- Gain real-world experience participating in a collaborative, product-engineering environment
+- Research and engage with container technologies, including Docker and Kubernetes as well as work with additional technologies such as Visual Studio, Microsoft Azure, .NET Core, Tableau and SQL Server
+- Ideal student candidates will have experience in Visual Studio and .NET Core/C#
+- Team Size: 2-3 students
+- POC: Joe Morrison – Director, Product Management
+
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
+
+### [CGI Client Onboarding Portal]({{site.baseurl}}/projects/pdfs/CGI_Capstone_Project_Proposal.pdf)
+The processes of onboarding and knowledge transfer for new members on a project team are often challenging and have an impact a members’ project experience. CGI aims to improve the project experience of its members by facilitating effective knowledge acquisition & transfer processes which, in-turn, will help reduce project costs and shorten onboarding timelines.
+
+In an effort to achieve this goal, we are looking to engage several students on a diverse team to build the foundation of a “client-project onboarding portal”. This portal will provide new team members with visibility into their assigned tasks while also enabling them to track their performance against these tasks, in order to be productive on their new projects. These onboarding tasks can represent formal trainings, required technology-stack-skills, and/or required paperwork.
+
+**Project Overview**
+To formulate and build a portal that will serve as an Onboarding and Knowledge Management solution, designed to make the process of onboarding new CGI members to project teams more efficient and effective. Students will work with a team of CGI experts to not only help solve this problem/challenge but also learn critical skills needed as they enter the workforce.
+
+**Project Details**
+
+The proposed Onboarding and Knowledge Management portal will achieve a couple of objectives:
+- Provide a structured way for new team members to be onboarded to a project/team
+- Provide the ability to track a team members progress against an onboarding plan
+- Provide a platform where project knowledge can be captured, shared, and archived on an ongoing basis
+
+The following non-exhaustive scenarios have been identified to achieve these objectives:
+- A new or existing team member logs-in to the portal and is presented with tasks that have been assigned to them
+- A project manager and/or lead can create and/or assign tasks to his or her team members
+- A user’s ability to use a “Copy From” feature to duplicate and assign an existing task list to team members
+- A reporting tool that enables project managers and/or leads track member progress and also review/approve the completion status of onboarding tasks
+
+The outcome of this Capstone Project would be a software solution that meets these objectives, along with its associated artifacts like architecture documentation, user personas, user journeys/workflows, UI/UX prototypes, software development environment setup, code documentation, testing artifacts, etc.
+
+Students should expect to learn about modern software-development techniques in an enterprise setting such as:
+- Design-thinking methodologies
+- Ideation and UI/UX rapid prototyping
+- Agile software development
+- Product and Project management
+
+**Note: NDA and/or IP agreement will need to be signed for this project.**
+
+
+
+### Deloitte - [Center for Disease Control and Prevention: Allocation of Funds and Education Resources to Combat Opioid Use Disorder (OUD)](https://canvas.pitt.edu/courses/46886/files/folder/privately_shared_projects)
+
+Check canvas for the project description.
 
 **Note: NDA and/or IP agreement will need to be signed for this project.**
 
 ## CS Faculty Projects
 
 
-### Occam: Smarter Search in Workflow Creation
-Occam is an open-source software and data preservation tool written in a combination of Ruby, Python, and JavaScript.
-This project provides long-term storage and a web-based portal for interacting with archived software.
-The focus is on scientific workloads, such as any process involved in producing or analyzing data for scientific publication, and provide a means of repeatably running both builds and workflows.
-There are also applications for the humanities and the preservation of interactive art and video games.
-When building workflows, a user connects data and software together in a chain as needed to produce new data, plots, etc.
-One issue is finding data or software that is relevant to what you wish to do.
-Currently, our search does not go beyond basic names, which can be overwhelming.
-This project will be about expanding our search capabilities to be more robust.
-For instance, if you are using a particular simulator, it could recommend datasets that have been used with it before.
-This involves designing an index and/or search heuristic, applying industry-proven projects such as ElasticSearch, and generating fake user activity to evaluate your solution.
-The deliverables include writing an entirely new subsystem within our project, designing any new relevant user interfaces, and writing corresponding unit and acceptance tests.
+### RISC-V web based simulator for CS447
 
-* Team Size: 2-3 students
-* POC: David Wilkinson (wilkie)
+For DECADES CS 447 was taught using MIPS assembly language. However, MIPS processors are not that common anymore (RIP PS and PS2).
+On the other hand, the RISC-V architecture (open-source) is gaining some momentum, and you can even buy some boards to have fun with it.
 
+We are still using MARS (which we all hate ;), but we want to push the development of an alternative that uses RISC-V. wilkie developed a web-based alternative, but it's still not ready for primetime: https://gitlab.com/wilkie/rawrs
+This tool is called RAWRS (RISC-V Assembler and Workable, Rewritable System) - it's an acronym it can mean whatever we want! - and it's a web-based tools (bye bye Java).
 
-### Improving Energy Efficiency via Heterogeneous-aware Scheduling
+The objective for this project is to develop this tool further to a point where it can be used for CS 447.
 
-Computer systems are increasingly being used to support a wide variety of applications such as web browsers, social networks, email clients, audio and video players. Chips with heterogeneous cores have been widely adopted by hardware vendors such as Samsung and Qualcomm to balance performance and power efficiency on mobile devices. Still, the main research challenge for runtime systems is to carefully allocate execution threads to the heterogeneous cores, while meeting strict user-facing performance targets with minimal energy consumption.
+The tool is written in (modern) Javascript where we predict most of the development will be focused. But you will also have the opportunity to stretch your assembly muscles. As the RISC-V simulator is backed by a RISC-V kernel :D
 
-This research project will propose to enhance runtime resource management decisions by leveraging existing hardware-assisted performance data. We will explore state-of-the-art machine learning algorithms for online workload characterization to guide task assignment. This work will automatically learn an optimal scheduling policy that can determine energy-efficient resource allocations in the computing platforms. It will continuously track application phases at a fine-grained level and perform application mapping decisions without requiring any application-specific manual-tuning or any modification in the deployed applications. We will conduct an experimental investigation using real development boards running mobile and cloud benchmarks and workloads.
-
-General Areas of Interest: Operating Systems, Computer Architecture, Compilers
-
-Helpful Skills: Knowledge of Linux, System Programming (C/C++), Python, Machine Learning
-
-* Team Size: 2-3 students
-* POC: Vinicius Petrucci
+* Team Size: 3-4 students
+* POC: David Wilkinson (wilkie) and Luis Oliveira
 
 
+### Learning-based Resource Management on Heterogeneous CPU/Memory Systems
+
+Computer systems are increasingly being used to support a wide variety of applications such as web browsers, social networks, email clients, audio and video players. Heterogeneous processors (i.e., different types of cores in a single CPU) and hybrid memory/storage systems (i.e., different types of memory accessible by the CPU) have been recently adopted by hardware vendors to balance performance and energy efficiency on computing devices. Still, the main research challenge for runtime systems software is to automatically allocate the execution tasks and associated data to the heterogeneous resources, while meeting user-facing performance targets with minimal resource consumption. Our research project will experimentally investigate and evaluate ideas to solve that problem, leveraging OS-level techniques, including profiling and tracing, and machine learning models that can help us characterize the application behavior from hardware-assisted performance monitoring counters. Specifically, students will learn how to use perf (a tool to monitor the performance of applications), deploy and run benchmarks to collect data, organize and clean the data, and experiment with different machine learning algorithms to extract policies for automatic resource allocation.
+
+* Areas of Interest: Operating Systems, Computer Architecture
+* Helpful Skills: Knowledge of Linux, C Programming, Python, Machine Learning
+* Group Size: 2-3 students
+* POC: Vinicius Petrucci (vpetrucci@pitt.edu) & Daniel Mossé (mosse@pitt.edu)
 
 
-### A website for handing-in programming assignments
+### Optimizing Web Browsing Energy Efficiency
 
-This project will be the modification of an existing website that allows students to hand in source files for programming assignments.
+While the Web has been around for decades and is available on practically every device from mobile phones to refrigerators, web browsing is a complex task that is still actively being researched. An ever-growing amount of mobile devices trying to stretch their battery life, in conjunction with increasingly complex web pages, create a delicate balancing act between energy efficiency and performance. Existing OS-based power management techniques designed to tackle this issue rely on generic system-level metrics that are unable to anticipate the complex behavior of a web browser, which can lead to energy inefficiency or poor user experience during web browsing activities.
 
-Currently this hand-in system allows students to upload files (usually java) for their programming homework but does not have any mechanism to turn on/off uploads for individual sections of individual students. A clean simple web interface is needed to allows the instructor to enable / disable uploads at the section by section and at individual student level.
+In this project, we propose a new power management approach that leverages application-level information by interpositioning important functions corresponding to major phases in the web browser (Chromium in our study). This allows us to monitor the behavior of the application at a finer granularity (compared to OS schemes). Based on runtime observations, we can modify the web browser's behavior to evaluate the effect of different hardware mappings (CPU type and speed) on performance/energy usage. Ultimately, we seek to design a better method of mapping application phases to appropriate hardware usage patterns. We have already built the interpositioning and monitoring platform and now would like to design and implement our power management mechanism based on this infrastructure. This is an ongoing project initiated by Will Sumner and new students will be able to leverage his experimental infrastructure
+(https://github.com/WilliamASumner/Chromium-Experiments).
 
-This project requires skill in PHP, HTML forms, JavaScript and JSON. We would like to avoid the use of vendor specific platforms such as Node JS etc.
+* Areas of Interest: Operating Systems, Computer Architecture
+* Helpful Skills: Knowledge of Linux, System Programming (C/C++), Python, Machine Learning
+* Group Size: 2-3 students
+* POC: Vinicius Petrucci (vpetrucci@pitt.edu)
 
-Other enhancements are as follows:
-- Modify the script that compiles the uploaded file(s) such that it displays the exact cause of the failure to compile rather than just reporting does not compile.
-- Modify the script code that accepts a roster from the instructor such that it provides an interface to see the list of students that are authorized to hand-in – and allows the instructor to add or remove students from the hand-in roster.  This is not the same thing as turning on/off a student’s ability to upload a specific assignment as describe in the first paragraph.
+### Experimenting with Disaggregated OS
 
+Disaggregated hardware resources have recently been proposed as a way to allow flexible and efficient allocation of server capacity to large-scale applications. In this project, we would like to experiment with a research operating system for hardware resource disaggregation, called LegoOS (https://github.com/WukLab/LegoOS), released by researchers from Purdue University. LegoOS breaks the traditional monolithic server design into a network of independent hardware components (CPU, memory, disk, etc.). It splits the major OS functions into loosely-coupled monitors running on specialized hardware components, while fast network messaging is used to allow those components to communicate.
+
+Experimentally we would like to understand how data-intensive applications spanning multiple machines could benefit, for instance, from the separation of the CPU from the memory system (DRAM disaggregation). For conducting our experiments, we will be using the CloudLab platform (https://www.cloudlab.us/).
+
+* Areas of Interest: Operating Systems, Computer Architecture
+* Helpful Skills: Knowledge of Linux Kernel, C Programming
+* Group Size: 2 students
+* POC: Vinicius Petrucci (vpetrucci@pitt.edu)
+
+
+### [Build a Wireless Sensing Unit to Integrate Sensor Data with Virtual Reality for Balance Training]({{site.baseurl}}/projects/pdfs/Biehl_Project.docx)
+
+Check the document, it has pictures in it. So I didn't include the text here.
+
+* Team Size: 3-4 students
+* POC: Jacob Biehl
+
+
+<!--### A website for handing-in programming assignments
+
+
+Tim Hoffman's hand-in system is behind the VPN. Due to so many students having trouble getting the VPN to work – he needs a workaround.  There are around 280 students and doing this by email by hand is very time consuming.
+
+Perhaps a  structured Dropbox with course assignment id nested folders that can be script harvested and auto copied to a directory on AFS.
+
+This is pretty vague and wide open since I have no ideas on a specific approach to get around the VPN.
+
+If someone has a great idea I’d love to give them a shot at it.
 
 * Team Size: 2-3 students
 * POC: Tim Hoffman
+-->
 
+### Stephen Lee - two projects
 
-### Duty-Cycle For Saving Battery In Navigation
+1.	Project Background (exploratory):  The practical applications of Blockchains have evolved beyond cryptocurrency. Blockchain applications show promise in disrupting many sectors, including supply chain, energy, finance, etc. However, blockchain technology needs to overcome its scalability issue to enable widespread adoption. Today most blockchain technology support throughput in tens of thousands. This project will explore off-chain computation to improve the scalability of blockchains. In particular, we will integrate an existing permissioned Blockchain (Hyperledger Sawtooth) with a serverless computing infrastructure (ApachOpen Whisk) and study the impact of elasticity on performance.
 
-One of the main battery drainers in smartphones is the GPS and maps applications (map app or mapp). While it is true that most mapps are used in cars typically with chargers, sometimes it is good to save the energy consumed by the mapp by turning the GPS on and off based on the mapp needs (e.g., duty cycle requirements while walking are different than while driving in a city, which are different than while driving in a highway).
+Students are required to have strong programming skills and eager to learn new languages, including Go, Scala, etc.
 
-In this project, we'll work off an existing prototype on rooted phones that controls the GPS duty cycle for static routes.  We will (a) collect data using the existing prototype, (b) connect the prototype to mapping application, such as Google maps or OpenStreetMaps or OpenStreetProject, (c) propose new algorithms (perhaps based on machine learning?) for better duty cycling, predicting when to turn on and off the GPS (before turns), and (d) measure the power gains in different situations.  There will be a lot of self-discovery, therefore students should be good at finding information on their own.
+* Number of students: 2-3
 
-* Team Size: 2-3 students
-* POC: Daniel Mosse
+2.	Project Background (development): LIDAR sensors are becoming increasingly popular to capture semantically rich information. Google Earth is one such example, where lidar data is fused with a satellite image to present an interactive and immersive experience. The visualization tool also serves as a framework for other projects such as Google Sunroof Project and Maps. This project will involve developing a visualization tool for LiDAR data collected using aerial drones. We will use publicly available LIDAR data and satellite images to visualize building rooftops.
 
+Students are required to have familiarity with HTML, Javascript, and python. Knowledge of any existing HTML/Javascript framework is a plus.
 
-### Managing user impatience on Android smartphones
+* Number of students: 2-3
 
-One of the main issues in smartphones is the battery usage. Phones can and do adjust resource usage dynamically, for example, dimming screens or reducing CPU frequency. However, it is not personalized. Are there ways to make it more general and more personal, maximizing battery life, while minimizing user frustration? We have implemented a prototype of such a system, where the users give feedback to the system through different interfaces and the system learns how each user uses the device.
 
-This project is based on a user-level prototype, done as a proof of concept.  We now have to implement or enhance several parts: (a) acquiring data about the usage of resources (CPU, screen brightness, Wi-Fi, network, etc), (b) feed the collected data to a machine learning model locally or in the cloud, (c) install the model in the smartphone kernel to install the correct resource configuration, (d) a resource discovery mechanism, which finds the user preferences (eg, for CPU, start all cores on and slow them down gradually; when the user think it is too slow, s/he will give a feedback to User Impatience), and (e) thorough testing of the final product. Students will participate in any or all of the 5 parts above.
+### Polkadot - Visualization for bitcoin
+Polkadot (https://polkadot.network/) is a heterogenous multi-chain; that is, it provides the ability for multiple different blockchains ("parachains") to share consensus and communicate securely with each other through a central relay chain.  Currently, while there are visualization tools for the relay chain (such as https://polkadot.js.org/apps/#/explorer/forks), and tools available for individual parachains, there are no tools that allow a user to have a cohesive view of the entire system.  The goal of this project is to produce a web application which will display the current status of the relay chain and various parachains in an easy-to-read format, including the last finalized block and current block candidates of the relay chain, status of various parachains, and status of the different parachains' message queues.
 
-Required Skills: Java
+Ideally, this will start as a text-based system to ensure accurate collection of data, and then visualization features will be added to it.
 
-Desired Skills:
-  * Android knowledge (Activity, Threads, Services)
-  * Android internal files knowledge is desirable but not required
-  * MySQL
+This project will be especially interesting for people interested in blockchain technology or information visualization.
 
-* Team Size: 2-3 students
-* POC: Daniel Mosse and Raphael Fernandes
+Technologies: This will mostly be done in JavaScript and node.js, along with display libraries of the group's choice and the Polkadot API.  However, it may require some code spelunking in the Polkadot Rust codebase.  We have team members that can assist you with all of these.
 
-### Web-based Interactive Degree Pathways
+Team Size: 3-4 students
+POC: Bill Laboon, Web3 Foundation Technical Education Lead (and Lecturer currently on leave from the University of Pittsburgh) - bill@web3.foundation
 
-[Presentation]({{site.baseurl}}/projects/files/Interactive Degree Map Capstone Project.pptx)
+### Malihe Alikhani - three projects
 
-Goal: Design a web-based, interactive tool to help students visualize and explore SCI degree pathways based on their academic interests and personal timeline
-Background: Currently, the most common tool for degree planning is a student’s degree audit or AAR, which can be accessed in Peoplesoft. This tool has numerous limitations, however. It is hard to read, does not show the prereq/coreq structure of the classes, and is not linked to course descriptions. Many universities create flow charts as a tool to recommend a timeline and flow of classes, but they also lack interactivity and often are visually confusing.
-Solution: We would like a tool that is visually clear, captures the prereqs/coreqs between courses,
-helps a student plan backwards based on their area of interest within a major (e.g. concentrations/specializations/set of electives), helps students to explore the best path for common double major or major/minor pairings, and links the courses to their course descriptions. In addition, we’d like to show what these paths would look like for students intending to complete their degrees over different durations.
+- SCITalk: An Interactive Conversational Agent for Exploring and Visualizing Data
 
-Helpful skills: Experience with web frameworks, data integration, interactive UI Design
+- BookTalk: An Interactive Conversational Mobile Application for Book Recommendation
 
-* Team Size: 3-4 Students
-* POC: Adam Lee and Kristine Pugliese
+- PittCoffee: A Smart Conversational Mobile Application for Placing Food Orders
 
+POC: Malihe Alikhani
 
 
-### Privatizers for the Internet of Things - measuring the impact of privatizer functions on image detection models
 
-Internet of Things applications such as smart-home is leveraging the unlimited power of the cloud to process the data collected by sensors and actuators. However, sending this data to remote servers for storage or processing also risks leaking unnecessary data to unknown parties given the history of occurrences from services such as Dropbox and even Google.
+# Other university projects
 
-Sensing devices that collect rich unstructured data such as cameras coupled with the advances of Visual Machine learning techniques can be used in many applications, which can range from person counting to mood detection. These techniques typically require full raw images from camera feeds, which may also contain unnecessary Personally Identifiable Information (PII) or user profiling data that is not necessarily a for the provided service. In this regard, we can use privatizer functions that have the role of cleaning unstructured data to remove unnecessary data or mitigate a specific attack on this data.
+## Green Guide Recycling Game
 
-In this project, we will create experiments to study how different simple global random privatizer functions can affect the inference of image-based object detection models. We will use the 2017 validation dataset and experiment with the different mobile_v2 pre-trained models.
+Pitt Sustainability want to make a game to teach people to recycle, compost, and donate on campus.
 
-The student will learn how to:
-- Use Tensorflow with Python to detect objects in images with different models
-- Create visual machine learning inference and validation workflows
-- Use pandas and numpy libraries
-- Format and edit images with numpy functions in Python
+The Game Dynamic is expected to go like this: User should be asked to sort objects to the correct end-of-life option. When user gets it right they gain points, when they get it wrong a message appears with the correct answer. User can replay game as many times as they want. It may be fun to have a high score board on the game so people can compete to see who gets the most right answers in a set timeframe.
 
-* Team Size: 2-3 Students
-* POC: Henrique Potter
+Below are just a few examples of possible scenarios that can be presented.
+Scenario Examples
 
-### Studying the impact of using privatizers across different image-based detection tasks
+|Item|End-of-Life|
+|-|-|
+|Container strawberries come in from the store| Trash
+|Torn pair of jeans|Textile recycling or thriftsburgh to be repaired|
+|Shirt that no longer fits|Thriftsburgh|
+|Dead batteries|On-campus battery recycling|
+|Pizza box with grease|Trash|
+|Cardboard box|Recycling|
+|Single use plastic bag|Trash|
+|Orange peel|Compost|
+|Worn out sneakers|Textile recycling|
+|Unopened Ramen you no longer want|Pitt Pantry|
+|Almond milk cardboard container|Trash|
+|Empty Ink Cartridge|Campus Mail to be recycled|
+|Starbucks to go cup|Trash|
 
-Project Background: Today, video cameras have the potential to transform many aspects of our life. Advances in deep learning-based techniques have enabled AI-based video analytics, such as reasoning from images, generating rich insights, and discovering relationships. Newer models exist that address binary classification problems (e.g., Is the meeting room occupied?), counting problems (How many people are in the meeting room?), recognize gestures, and so on. But, recording videos also infringes on people's privacy --- the videos can be mined to extract personally identifiable information for profit or malice.
 
-Interestingly, many of the privacy attacks can be prevented by employing privatizers that remove personal information at the cost of additional accuracy and energy. For example, faces can be blurred before videos are processed by third-party algorithms. However, there exist many tradeoffs in employing such privatizers. Blurring faces, for instance, may reduce the accuracy of the algorithm that extracts useful information (i.e., utility) but improve privacy. These privatizers may also consume additional energy to transform the data. We can also use less powerful privatizer that uses less energy but maintains similar utility. Since videos can provide useful analytics and services, our main goal is to study the tradeoffs that privatizers provide in the context of utility, energy, and privacy.
+The plan is to embedded-in/link to the Student Green Guide and Employee Green Guide pages on sustainable.pitt.edu.
 
-We are looking to study these utility, privacy, and energy tradeoffs across different tasks (e.g., counting people, gesture recognition). This will involve using existing deep learning models on these tasks and measuring the impact of executing the models on privacy and energy. Students are required to know python programming and some familiarity with deep learning-based libraries.
+Here are some examples of similar ideas:
+- UBC (Canada) – [yuluo.psych.ubc.ca/studies/Sorting_fun](yuluo.psych.ubc.ca/studies/Sorting_fun)
+- Penn State Recycling Game (a but little slow): [https://recyclinggame.la.psu.edu/](https://recyclinggame.la.psu.edu/)
+- Monroe County : [https://www2.monroecounty.gov/files/DES/education/SortItOut/index.html](https://www2.monroecounty.gov/files/DES/education/SortItOut/index.html)
+- Virtual waste sorting game from UMBC: [quiz.tryinteract.com/#/5e999a59e1b7600014a65aec](quiz.tryinteract.com/#/5e999a59e1b7600014a65aec)
+  - All of our answers aren’t the same on-campus, but in general the answers are reflective of Pitt and Pittsburgh’s waste diversion reality.
 
-* Team size: 2-3 Students
-* POC: Stephen Lee
+Team Size: 3-4 students
+* POC (primary): Samantha Ford. Sustainability Projects Coordinator, University of Pittsburgh
+* POC: Aurora Sharrard, Director of Sustainability, University of Pittsburgh
 
 
-### Professor Bruce Childers Projects
+### Decision support - G2A policing
 
-1. An AI-driven Outlook plug-in to schedule meetings <br> This project involves creating an AI-driven Outlook plug-in that can automatically suggest meeting times for people that request meetings.  The Scheduling-Bot could examine historical calendar information to learn preferences, could pull in teaching schedules, etc., to figure out when to suggest meetings, the location.
+[presentation](https://docs.google.com/presentation/d/1WASMOi-arsi-bCEsv1pzwz5DPYz45skyGxLm_rCTJ_o/edit?usp=sharing)
 
+This project aims at creating a website to help informing people and helping them navigate
+through the difficult process of investigating police misconduct.
 
+The application will help navigate the investigation procedure.
+Many scenarios that can happen, but there are 6 parts to the police investigation
+1. Complaint
+2. Notification
+3. Investigation
+4. Conviction
+5. Ex-post (what happens after conviction)
+6. Record keeping
 
-2. Create a Voting System for SCI <br> SCI has many committees, which are formed by election. This capstone is to create an online, cloud-hosted platform that allows individuals to (a) specify preferences, with varying rank of choice, to stand for election on various committees; (b) automatically matches preferences to create ballots for committees under constraints (e.g., maximum of 2 people on a ballot); (c) solicits votes among constituents; (d) select winning candidates according to rank choice voting (RCV); (e) delivers a report of voting outcome, including voting rounds with RCV.<br>The project will involve web development, cloud hosting, and algorithm implementation (for matching to create ballots and to conduct the vote with RCV).
-
-* Team size: 2-3 Students
-* POC: Bruce Childers
-
-
-## Bioinformatics-Focused Projects
-
-**Note:** These projects have a focus on bioinformatics specifically. Preference is given to CS1640 students, or those with a background in bioinformatics or a related discipline.
-
-### A web interface to enable the visualization of fMRI data
-
-[Presentation]({{site.baseurl}}/projects/files/fmri_portal.pdf)
-
-
-We have recently been performing multi-study analyses of the development of functional brain connectivity through adolescence to understand how brain networks evolve and reconfigure in this time period. This field has had to overcome a lot of methodological challenges due to artifacts and small effect sizes that have led to an interest in multi-site, “big data" studies and replication through open science initiatives. To this end, we been working on analyses combining multiple large, longitudinal studies comprising thousands of fMRI scans of adolescents.  From these, we are interested in charting the developmental trajectories of every functional *connection* in the brain (e.g., the strength of functional interactions between every pair of regions).  This means we have a large number of connections (50k-500k depending on the density of the sampling applied), each with a developmental trajectory as well as various statistical and diagnostic assessments.
-
-The goal of the project would be to build a web interface to allow visualization of this data, both for performing exploratory analyses (e.g., for people interested in a particular region or regions, allow them to quickly identify its developmental role and timing), as well as replication (e.g., for people performing their own developmental studies, determine whether overall patterns replicate in a much larger, multi-site sample).
-
-Technically, what the goal is to develop something like a web interface that allows people to select any two brain regions (a la the Allen brain atlas, http://human.brain-map.org/mri_viewers/data, or neurosynth, https://neurosynth.org/), displays information about the regions selected, and either queries a pre-built database (based on analyses we’ve currently been running on the Pittsburgh supercomputing center servers) and/or executes some optimized analyses in real-time to show information about, e.g., overall developmental patterns, patterns in each of the component studies individually, differential developmental patterns by gender or other demographics, QA metrics such as the effect of head motion on connectivity strength, and potentially more.
-
-* Team size: 3-4 Students
-* POC: Finnegan Calabro, Departments of Psychiatry and Bioengineering, University of Pittsburgh
-
-
-### Remote veterinary care app
-
-Proposed regulations by FDA will ban the over-the-counter sale of all antibiotics to livestock producers. In order to administer antibiotics to sick animals, livestock producers will need to get a prescription from a veterinarian. Currently, they can purchase common antibiotics (example: penicillin) from feed/farm stores or via mail order. Unfortunately, there is a shortage of food-animal and rural veterinarians, especially those with small ruminant (sheep, goat) expertise. Many producers are located far from a veterinarian. For veterinarians, it is expensive and time-consuming to visit farms with any frequency. One way to address the problem is through technology, a smart phone app that could connect livestock producers, especially small and limited resource producers, with veterinary expertise.  Producers could submit pictures/videos, data, and symptoms to a veterinarian, who in turn, could respond with possible causes and treatments. Prairie View University has developed an app for this purpose (Vetlink), but the app is geared more towards providing producers with possible disease causes than connecting them with veterinary expertise and improving the communication between veterinarian and client. An app can't replace veterinary consultation, but it may make it easier for both parties to develop valid veterinarian-client-patient relationships that will be essential to livestock producers being able to provide adequate health care to their animals if/when the antibiotic ban takes place. Think of it as remote veterinary care.
-
-* Team size: 3-4 Students
-* POC: Susan Schoenian, Sheep & Goat Specialist, University of Maryland
-
-### O’Donnell lab – Machine learning to map cellular localizations
-
-In response to a changing environment, cells reshuffle the localization of key membrane proteins. Mapping these localization changes is crucial for human health; if proteins are not in the correct location they cannot execute their proper cellular function. For example, in diseases like cystic fibrosis, mislocalization of a key membrane channel results in impaired lung function. In the O’Donnell lab, we are interested in characterizing the localization changes for membrane proteins in a high-throughput fashion. Using cutting edge fluorescence microscopy, we can define the intracellular distribution for hundreds of membrane proteins. Quantitative analysis of these distributions requires labor intensive manual manipulations. We are interested in developing an automated pipeline, that likely involves machine learning approaches, to allow for high throughput quantification analyses of protein distribution between the plasma membrane and intracellular compartments. We currently have a large, manually quantified training dataset. Should this experience prove rewarding for the student and beneficial to our research program, we can offer paid summer internships to further aid us in achieving these goals.  
-
-* Team size: 3-4 Students
-* POC: Allyson F. O'Donnell
-
-
-### Machine learning of electronic health records data
-
-Electronic health records (EHR) contain comprehensive patient health history and are promising for early diagnosis of disease or prediction of outcome. Particularly, EHR data in intensive care units (ICU) are ideal for applying machine learning techniques as they are mass in volume, and record very detailed health history information. Examples include demographics, treatment records, periodic vital and lab measurements. However, most of these data are either incomplete, irregular, or unstructured, making it hard to apply standard prediction models. Recurrent neural network is capable of handling time-series inputs. The goal of this project is to build a predictive model for early detection of in-hospital organ failure or mortality using novel neural network techniques. We will use the open source MIMIC-III data.
-
-The breakdown of this project:
-1. Data: data wrangling, feature engineering
-2. Model training: applying off the shelf packages, or modifying existing implementation, selection of hyperparameters
-3. Evaluation: compare with benchmarks on prediction
-4. Deploying: creating a GUI or package
-
-* Team size: 3-4 Students
-* POC: Lu Tang
-
-
-### Ectotherm ER: Biological Sciences Outreach module website development
-
-Through Pitt Bio Outreach, we developed curriculum called “Ectotherm ER” that goes out to middle and high schools in which students learn about climate change by participating in citizen science, gathering and analyzing data, and relating that to amphibian populations and disease. Students use agar model frogs to gather temperature data in different microhabitats which is then reported back to the Richards-Zawacki lab in the Department of Biological Sciences and used to create computational models that predict amphibian body temperature in nature, which can help anticipate trends due to changing climates. This curriculum is being used widely in the western PA area, and we are working to publish in a national journal to expand the work across the country. To support the schools, we developed a handbook of materials and worksheets for the students to use as well as an introductory video to familiarize students with the work and the lab that they will be contributing data to.
-
-We would like a website that is the central hub for teachers to access the introductory video, all of the handbook materials needed for the module, as well as a place for schools to input data collected from their location so that the lab can easily access those data and use it in their research. If possible, we would also like the website to show graphs that are generated by the data that is inputted by the schools.
-
-* Team size: 3-4 Students
-* POC: Rebecca Gonda
-
-### Benos Lab - Smartphone app
-
-[Presentation]({{site.baseurl}}/projects/files/Takis Capstone_pres.20200110.pdf)
-
-
-Machine learning is become an important tool nowadays to analyze the complex and large biomedical and clinical datasets that are available.  At the same time, new data types are generated from smartphones and other apps that can transform the field of medicine.  These data too, will need to be integrated and analyzed under the same framework with the standard clinical measurements.
-
-The Benos Lab is developing probabilistic graphical models (a subcategory of machine learning algorithms), specifically designed to analyze complex datasets with a variety of data types.  We have applied those algorithms successfully to a variety of clinical problems including (a) develop a classifier to reduce the number of false positive findings in low dose CT scan screenings for lung cancer, (b) identify biomarkers indicative of combination therapy in cancer and (c) identify microbiota and clinical factors affecting the development of pneumonia in ICU patients.
-
-We would like to expand the data that are typically analyzed by using smartphone apps to collect new data types.  In that respect, we are looking for a highly motivated student, with expertise in developing  such apps to work with us and UPMC clinicians in developing such tools.
-
-For more information on Benos Lab activities: http://www.benoslab.pitt.edu/
-
-* Team size: 3-4 Students
-* POC: Takis Benos
-
-
-### Applying Localized Feature Selection Based on Scatter Separability on RNA sequencing
-
-Localized Feature Selection Based on Scatter Separability (LFSBSS) is a cluster-wise feature selection algorithm for unsupervised learning.
-Unlike global feature selection methods where the uniqueness of subgroups is ignored, LFSBSS allows the feature set to optimally adapt to local variations in the sample space.
-This locality property particularly suits the need for identifying marker genes used for cell type identification in single cell RNA sequencing studies.
-
-However, the current implementation of LFSBSS takes too much time iterating feature selection and clustering processes especially when it needs to take a large-scale data.
-This will be problematic for single cell RNA sequencing data analysis, since they usually comprise thousands of cells with hundreds of genes.
-We will implement an algorithm that systematically speeds up the algorithm by 1) prioritizing and grouping genes to use and by 2) modifying the frequency of feature selection and clustering in the function.
-
-* Team size: 3 Students
-* POC: Hyun Jung Park
+**Two parts**
+This project has two distinct parts, and which ones you will work on depends on your interests.
+So you can work on
+1. Creation of the website tool.
+2. Using Natural Language Processing to extract data from police union contracts.
+3. A mix of both.
+
+* Areas of Interest: Web-development, NLP
+* Helpful Skills for NLP: Python, R, regex (or you'll need to learn them)
+* Helpful Skills for web-dev: No restrictions, but useful to know JavaScript/Angular/Vue/etc.
+* Group Size: 3-4 students
+* POC: Sera Linardi (linardi@pitt.edu), Eliana Beigel
