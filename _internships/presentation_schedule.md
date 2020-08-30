@@ -28,8 +28,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 4 (Week of 11 SEP)
 
 * Matthew Petersen
-* Griffin Lynch
-* Noah Fenton
+* Noah Fenton and Neel Trivedi
 * Ashley Stauffer
 * Noah LaFerriere
 
@@ -73,7 +72,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 10 (Week of 23 OCT)
 
-* Neel Trivedi
+* Griffin Lynch
 * Jonathan Norris
 * Brett Jones
 * Zvonty Flugence
@@ -93,8 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 13 (Week of 13 NOV)
 
-* Zachary Grimaldi
-* Joseph Paul
+* Zachary Grimaldi and Joseph Paul
 * Ryan Duff
 * Xingchen Zhao
 
