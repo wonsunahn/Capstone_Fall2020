@@ -79,22 +79,22 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 11 (Week of 30 OCT)
 
-* Noah LaFerriere
+* Max Jahnke
 * Erik Nordby
 * Zach Liu
 
 ## WEEK 12 (Week of 6 NOV)
 
+* Ryan Duff
 * Jiyue (Tom) Yang
 * Ian Lundberg
-* Solomon Heisey
 * Ryan Yang
 
 ## WEEK 13 (Week of 13 NOV)
 
 * Zachary Grimaldi and Joseph Paul
-* Ryan Duff
 * Xingchen Zhao
+* Robert Kline
 
 ## WEEK 14 (Week of 20 NOV)
 
