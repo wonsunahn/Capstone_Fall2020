@@ -21,81 +21,81 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 3 (Week of 4 SEP)
 
 * Rohit Ganguly
-* [Empty]
-* [Empty]
-* [Empty]
+* Matthew Duch
+* Max Dudek
+* Jeremy Olin
 
 ## WEEK 4 (Week of 11 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Carter Moriarity
+* Jeremy Halt
+* Caroline Pridgen
+* Joe Ducko
 
 ## WEEK 5 (Week of 18 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Ryan Murphy
+* Jeremy Halt
+* Lwin Oo
+* william thomas
 
 ## WEEK 6 (Week of 25 SEP)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Bryar Wassum
+* Dane Halle
+* Varun Devulapalli
+* Josh Dullinger
 
 ## WEEK 7 (Week of 2 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Sebastian Marcano
+* Jeremy Wertkin
+* Haoyue Cui
+* Ilana Udler
 
 ## WEEK 8 (Week of 9 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Sam Rosenberg
+* Maggie Mayer
+* Ryan Lynch
+* Bryce Ryan
 
 ## WEEK 9 (Week of 16 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Ben Young
+* Alvyn Berg
+* Andrew Gagen
+* Jesse Thomas
 
 ## WEEK 10 (Week of 23 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Adam Nash
+* Brendan Russ
+* ming wang
+* Xinya Su
 
 ## WEEK 11 (Week of 30 OCT)
 
-* [Empty]
-* [Empty]
-* [Empty]
-* [Empty]
+* Harrison Green
+* Samuel Talenti
+* alex conway
+* Kyle Maxwell
 
 ## WEEK 12 (Week of 6 NOV)
 
-* [Empty]
-* [Empty]
-* [Empty]
+* Brian Popeck
+* Kristian Stjerna Blezard
+* Vasco Xu
 * [Empty]
 
 ## WEEK 13 (Week of 13 NOV)
 
-* [Empty]
+* Jim Tomko
 * [Empty]
 * [Empty]
 
 ## WEEK 14 (Week of 20 NOV)
 
-* [Empty]
-* [Empty]
+* Richard George
+* Avi Glozman
 * [Empty]

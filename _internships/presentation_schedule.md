@@ -31,6 +31,7 @@ The presentations will be given in the order they are listed on the particular d
 * Griffin Lynch
 * Noah Fenton
 * Ashley Stauffer
+* Noah LaFerriere
 
 ## WEEK 5 (Week of 18 SEP)
 
@@ -38,9 +39,11 @@ The presentations will be given in the order they are listed on the particular d
 * Victoria Chuah
 * Josh Arabia
 * Noah Vienneau
+* Siyu Zhang
 
 ## WEEK 6 (Week of 25 SEP)
 
+* Bal Timsina
 * Derek Nadeau
 * Aiden Fertich
 * John Hudson
@@ -52,6 +55,7 @@ The presentations will be given in the order they are listed on the particular d
 * Keaton Hanna
 * James Fleckenstein
 * Qing Chen
+* James Wood
 
 ## WEEK 8 (Week of 9 OCT)
 
@@ -77,7 +81,6 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 11 (Week of 30 OCT)
 
 * Noah LaFerriere
-* Siyu Zhang
 * Erik Nordby
 * Zach Liu
 
