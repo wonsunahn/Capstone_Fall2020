@@ -82,6 +82,7 @@ The presentations will be given in the order they are listed on the particular d
 * Max Jahnke
 * Erik Nordby
 * Zach Liu
+* Caroline Shafer
 
 ## WEEK 12 (Week of 6 NOV)
 
