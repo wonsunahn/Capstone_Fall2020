@@ -96,6 +96,7 @@ The presentations will be given in the order they are listed on the particular d
 * Zachary Grimaldi and Joseph Paul
 * Xingchen Zhao
 * Robert Kline
+* Alex Zharichenko
 
 ## WEEK 14 (Week of 20 NOV)
 
