@@ -62,6 +62,7 @@ The presentations will be given in the order they are listed on the particular d
 * Mary Tsvetkova
 * Yousuf Hameedullah
 * Brian Rossi
+* Jacob Mcafoos
 
 ## WEEK 9 (Week of 16 OCT)
 
@@ -69,6 +70,7 @@ The presentations will be given in the order they are listed on the particular d
 * Oktay Ahverdiyev
 * Krutarth Patel
 * Matthew Lo
+* Chloe Zhang
 
 ## WEEK 10 (Week of 23 OCT)
 
