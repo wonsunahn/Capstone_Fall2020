@@ -21,9 +21,9 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | October 2  | Talk TBD |
 | October 9 | Midterm presentations and Retrospective 3 |
 | October 16     | Midterm update and presentations **MUST INCLUDE FUNCTIONAL DEMO** |
-| October 23    | Spring Break |
-| October 30    | Talk TBD and Meeting Time Retrospective 4 |
-| November 6    | Talk TBD |
-| November 13     | Talk TBD and Retrospective 5 |
+| October 23    | Talk TBD and Meeting Time Retrospective 4 |
+| October 30    | Talk TBD |
+| November 6    | Talk TBD and Retrospective 5 |
+| November 13     | Talk TBD |
 | November 20    | Presentations **ALL STUDENTS: FINAL PAPERS DUE** |
 | November After break?    | Presentations |
