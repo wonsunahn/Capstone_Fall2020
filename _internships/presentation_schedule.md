@@ -78,6 +78,7 @@ The presentations will be given in the order they are listed on the particular d
 * Jonathan Norris
 * Brett Jones
 * Zvonty Flugence
+* Ze Yu
 
 ## WEEK 11 (Week of 30 OCT)
 
