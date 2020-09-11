@@ -86,7 +86,7 @@ The presentations will be given in the order they are listed on the particular d
 * Brian Popeck
 * Kristian Stjerna Blezard
 * Vasco Xu
-* [Empty]
+* Derek Stathis
 
 ## WEEK 13 (Week of 13 NOV)
 
