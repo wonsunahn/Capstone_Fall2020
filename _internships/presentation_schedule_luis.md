@@ -91,7 +91,7 @@ The presentations will be given in the order they are listed on the particular d
 ## WEEK 13 (Week of 13 NOV)
 
 * Jim Tomko
-* [Empty]
+* Eric Tram
 * [Empty]
 
 ## WEEK 14 (Week of 20 NOV)
