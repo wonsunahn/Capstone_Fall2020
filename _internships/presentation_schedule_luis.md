@@ -92,7 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * Jim Tomko
 * Eric Tram
-* [Empty]
+* Arthur Xiao
 
 ## WEEK 14 (Week of 20 NOV)
 
