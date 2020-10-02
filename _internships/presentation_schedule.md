@@ -54,7 +54,6 @@ The presentations will be given in the order they are listed on the particular d
 * Keaton Hanna
 * James Fleckenstein
 * Qing Chen
-* James Wood
 
 ## WEEK 8 (Week of 9 OCT)
 
