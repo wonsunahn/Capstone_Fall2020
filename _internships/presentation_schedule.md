@@ -106,3 +106,4 @@ The presentations will be given in the order they are listed on the particular d
 * Katelyn Morrison
 * Ethan Myers
 * Caleb Tucker-Loewe
+* Emil Magnar Kjenstad
