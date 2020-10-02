@@ -93,9 +93,11 @@ The presentations will be given in the order they are listed on the particular d
 * Jim Tomko
 * Eric Tram
 * Arthur Xiao
+* [Empty]
 
 ## WEEK 14 (Week of 20 NOV)
 
 * Richard George
 * Avi Glozman
+* Laurence Conway
 * [Empty]
