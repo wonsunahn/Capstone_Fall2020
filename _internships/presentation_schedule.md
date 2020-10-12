@@ -68,7 +68,6 @@ The presentations will be given in the order they are listed on the particular d
 * Coleton Bryan
 * Oktay Ahverdiyev
 * Krutarth Patel
-* Matthew Lo
 * Chloe Zhang
 
 ## WEEK 10 (Week of 23 OCT)
@@ -85,6 +84,7 @@ The presentations will be given in the order they are listed on the particular d
 * Erik Nordby
 * Zach Liu
 * Caroline Shafer
+* Matthew Lo
 
 ## WEEK 12 (Week of 6 NOV)
 
