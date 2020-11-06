@@ -92,6 +92,7 @@ The presentations will be given in the order they are listed on the particular d
 * Jiyue (Tom) Yang
 * Ian Lundberg
 * Ryan Yang
+* Solomon Heisey
 
 ## WEEK 13 (Week of 13 NOV)
 
@@ -102,7 +103,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 14 (Week of 20 NOV)
 
-* Solomon Heisey
 * Katelyn Morrison
 * Ethan Myers
 * Caleb Tucker-Loewe
