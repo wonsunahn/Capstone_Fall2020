@@ -107,3 +107,4 @@ The presentations will be given in the order they are listed on the particular d
 * Ethan Myers
 * Caleb Tucker-Loewe
 * Emil Magnar Kjenstad
+* Bret Barkley
